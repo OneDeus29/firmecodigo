@@ -228,6 +228,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-04-20 20:38:53 +0000",
+      "pumpkin_pie": "2025-04-20 21:20:41 +0000",
       "mutton": "2025-04-20 18:38:07 +0000",
       "bread": "2025-04-20 18:47:09 +0000",
       "melon_slice": "2025-04-20 20:08:03 +0000"
@@ -303,7 +304,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-20 18:49:37 +0000",
-      "minecraft:creeper": "2025-04-20 19:32:00 +0000"
+      "minecraft:creeper": "2025-04-20 19:32:00 +0000",
+      "minecraft:husk": "2025-04-20 21:19:05 +0000"
     },
     "done": false
   },
@@ -398,77 +400,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "totw_modded:jungle_tower": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
+      "jungle": "2025-04-20 21:13:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
+      "diamond_chestplate": "2025-04-20 21:19:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "dungeons_arise:find_heavenly_rider": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
+      "location0": "2025-04-20 21:15:16 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
+      "the_wind_darkening_0": "2025-04-20 21:09:33 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:03:42 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
