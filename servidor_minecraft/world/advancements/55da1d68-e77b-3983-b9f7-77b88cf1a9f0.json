@@ -410,6 +410,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-04-20 18:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-04-20 17:17:46 +0000"
@@ -459,6 +465,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 18:12:01 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/sabrewing": {
     "criteria": {
       "requirement": "2025-04-20 17:48:34 +0000"
@@ -474,6 +486,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-20 16:46:56 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-04-20 18:08:19 +0000"
     },
     "done": true
   },
