@@ -1613,3 +1613,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Apr2025 18:17:17.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Labyrinth]
 [20Apr2025 18:17:42.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [20Apr2025 18:18:19.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Apr2025 18:18:48.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Apr2025 18:19:46.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Apr2025 18:19:46.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficult hard<--[HERE]
+[20Apr2025 18:19:53.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Apr2025 18:19:53.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficult hard<--[HERE]
+[20Apr2025 18:20:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[20Apr2025 18:27:12.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF was kicked for floating too long!
+[20Apr2025 18:27:12.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Flying is not enabled on this server
+[20Apr2025 18:27:12.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[20Apr2025 18:27:47.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nittzel[/127.158.15.9:54829] logged in with entity id 28813 at (4.5, 275.0, -7.5)
+[20Apr2025 18:27:47.750] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to nittzel
+[20Apr2025 18:27:47.750] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to nittzel
+[20Apr2025 18:27:47.751] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to nittzel
+[20Apr2025 18:27:47.751] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to nittzel
+[20Apr2025 18:27:47.752] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to nittzel
+[20Apr2025 18:27:47.754] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to nittzel
+[20Apr2025 18:27:47.754] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to nittzel
+[20Apr2025 18:27:47.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel joined the game
+[20Apr2025 18:27:47.829] [Server thread/INFO] [Jade/]: Syncing config to nittzel (16feb9c4-da3c-3946-9c2a-631f748977c0)
+[20Apr2025 18:27:47.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Ice and Fire]
+[20Apr2025 18:27:47.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Rare Find]
+[20Apr2025 18:27:56.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:59055] logged in with entity id 28854 at (112.00529440850374, 22.024424088213678, 171.06116947820357)
+[20Apr2025 18:27:56.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Itz_Jusebg_FpF
+[20Apr2025 18:27:56.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Itz_Jusebg_FpF
+[20Apr2025 18:27:56.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Itz_Jusebg_FpF
+[20Apr2025 18:27:56.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Itz_Jusebg_FpF
+[20Apr2025 18:27:56.185] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Itz_Jusebg_FpF
+[20Apr2025 18:27:56.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Itz_Jusebg_FpF
+[20Apr2025 18:27:56.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Itz_Jusebg_FpF
+[20Apr2025 18:27:56.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[20Apr2025 18:27:56.235] [Server thread/INFO] [Jade/]: Syncing config to Itz_Jusebg_FpF (55da1d68-e77b-3983-b9f7-77b88cf1a9f0)
+[20Apr2025 18:28:03.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20Apr2025 18:28:22.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3944ms or 78 ticks behind
+[20Apr2025 18:28:41.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind

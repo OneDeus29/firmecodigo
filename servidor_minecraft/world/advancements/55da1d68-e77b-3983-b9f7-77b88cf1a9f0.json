@@ -362,33 +362,21 @@
     },
     "done": true
   },
-  "majruszsdifficulty:bleeding": {
+  "spartanweaponry:glaive": {
     "criteria": {
-      "bleeding_applied": "2025-04-20 16:51:45 +0000"
+      "has_glaive": "2025-04-20 16:11:30 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "call_of_yucutan:defeat_boss": {
     "criteria": {
-      "deflected_projectile": "2025-04-20 17:48:36 +0000"
+      "defeat_boss_0": "2025-04-20 16:13:09 +0000"
     },
     "done": true
   },
-  "majruszsdifficulty:bleeding_inflicted": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "bleeding_applied": "2025-04-20 17:15:02 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-04-20 16:21:03 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
-    "criteria": {
-      "loot_simple_dungeon": "2025-04-20 16:35:59 +0000"
+      "avoid_vibration": "2025-04-20 16:19:39 +0000"
     },
     "done": true
   },
@@ -398,39 +386,9 @@
     },
     "done": false
   },
-  "spartanweaponry:glaive": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "has_glaive": "2025-04-20 16:11:30 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/technical/used_shield": {
-    "criteria": {
-      "requirement": "2025-04-20 16:53:01 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/find_labyrinth": {
-    "criteria": {
-      "find_labyrinth": "2025-04-20 18:17:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-04-20 17:17:46 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/illusioner": {
-    "criteria": {
-      "c1": "2025-04-20 17:10:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-04-20 16:19:39 +0000"
+      "lifeturnedouttobeacomedy_0": "2025-04-20 16:21:03 +0000"
     },
     "done": true
   },
@@ -447,27 +405,57 @@
     },
     "done": false
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-04-20 17:19:06 +0000"
-    },
-    "done": true
-  },
-  "call_of_yucutan:defeat_boss": {
-    "criteria": {
-      "defeat_boss_0": "2025-04-20 16:13:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2025-04-20 16:29:23 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
-      "killed_fire_dragon": "2025-04-20 18:12:01 +0000"
+      "loot_simple_dungeon": "2025-04-20 16:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-20 16:46:56 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-04-20 16:51:45 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/technical/used_shield": {
+    "criteria": {
+      "requirement": "2025-04-20 16:53:01 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-04-20 17:10:28 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-04-20 17:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-20 17:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-20 17:19:06 +0000"
     },
     "done": true
   },
@@ -483,15 +471,27 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "diamond": "2025-04-20 16:46:56 +0000"
+      "deflected_projectile": "2025-04-20 17:48:36 +0000"
     },
     "done": true
   },
   "legendary_monsters:locate_mossy_temple": {
     "criteria": {
       "mossy_temple": "2025-04-20 18:08:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-04-20 18:17:17 +0000"
     },
     "done": true
   },
