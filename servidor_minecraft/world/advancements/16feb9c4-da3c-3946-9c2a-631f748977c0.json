@@ -197,7 +197,12 @@
       "minecraft:beach": "2025-04-20 18:34:24 +0000",
       "minecraft:sparse_jungle": "2025-04-20 18:51:46 +0000",
       "minecraft:river": "2025-04-20 18:33:52 +0000",
-      "minecraft:jungle": "2025-04-20 18:34:11 +0000"
+      "minecraft:dripstone_caves": "2025-04-20 21:36:50 +0000",
+      "minecraft:grove": "2025-04-20 21:31:31 +0000",
+      "minecraft:jagged_peaks": "2025-04-20 21:31:59 +0000",
+      "minecraft:jungle": "2025-04-20 18:34:11 +0000",
+      "minecraft:frozen_peaks": "2025-04-20 21:31:46 +0000",
+      "minecraft:meadow": "2025-04-20 21:36:32 +0000"
     },
     "done": false
   },
@@ -348,7 +353,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "fungal_jungle": "2025-04-20 20:35:21 +0000",
-      "volcanic_plains": "2025-04-20 20:00:11 +0000"
+      "highland": "2025-04-20 21:30:16 +0000",
+      "jade_cliffs": "2025-04-20 21:31:27 +0000",
+      "volcanic_plains": "2025-04-20 20:00:11 +0000",
+      "grassland": "2025-04-20 21:29:59 +0000"
     },
     "done": false
   },
@@ -400,9 +408,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-20 21:32:03 +0000"
+    },
+    "done": true
+  },
   "totw_modded:jungle_tower": {
     "criteria": {
       "jungle": "2025-04-20 21:13:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-04-20 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-04-20 21:32:09 +0000"
     },
     "done": true
   },

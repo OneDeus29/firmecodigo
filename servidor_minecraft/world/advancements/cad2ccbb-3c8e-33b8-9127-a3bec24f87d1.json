@@ -199,8 +199,13 @@
       "minecraft:sparse_jungle": "2025-04-20 19:01:12 +0000",
       "minecraft:river": "2025-04-20 04:25:29 +0000",
       "minecraft:stony_shore": "2025-04-20 20:46:03 +0000",
+      "minecraft:dripstone_caves": "2025-04-20 21:34:09 +0000",
+      "minecraft:grove": "2025-04-20 21:30:23 +0000",
+      "minecraft:jagged_peaks": "2025-04-20 21:31:05 +0000",
       "minecraft:lush_caves": "2025-04-20 15:31:14 +0000",
-      "minecraft:jungle": "2025-04-20 04:27:52 +0000"
+      "minecraft:jungle": "2025-04-20 04:27:52 +0000",
+      "minecraft:frozen_peaks": "2025-04-20 21:30:40 +0000",
+      "minecraft:meadow": "2025-04-20 21:33:38 +0000"
     },
     "done": false
   },
@@ -283,6 +288,7 @@
       "apple": "2025-04-20 15:41:06 +0000",
       "bread": "2025-04-20 04:29:12 +0000",
       "melon_slice": "2025-04-20 20:38:45 +0000",
+      "golden_carrot": "2025-04-20 21:34:54 +0000",
       "carrot": "2025-04-20 15:47:27 +0000"
     },
     "done": false
@@ -551,9 +557,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-20 21:31:07 +0000"
+    },
+    "done": true
+  },
   "totw_modded:jungle_tower": {
     "criteria": {
       "jungle": "2025-04-20 21:19:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:cestus": {
+    "criteria": {
+      "has_cestus": "2025-04-20 21:31:28 +0000"
     },
     "done": true
   },
