@@ -490,5 +490,35 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "volcanic_plains": "2025-04-20 19:59:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "volcanic_plains": "2025-04-20 19:59:54 +0000"
+    },
+    "done": false
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-04-20 20:01:03 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-04-20 20:01:18 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2025-04-20 20:02:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
