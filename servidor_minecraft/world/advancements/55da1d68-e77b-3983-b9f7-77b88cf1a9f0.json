@@ -201,6 +201,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-04-20 04:14:25 +0000",
+      "minecraft:river": "2025-04-20 15:18:10 +0000",
       "minecraft:jungle": "2025-04-20 05:31:05 +0000"
     },
     "done": false
@@ -235,77 +236,125 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
+      "iron_helmet": "2025-04-20 15:15:39 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-04-20 15:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-20 15:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-04-20 15:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-20 15:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-20 15:21:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-20 15:23:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2025-04-20 15:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-20 15:15:59 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-20 15:25:13 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
+      "slept_in_bed": "2025-04-20 15:16:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "has_pike": "2025-04-20 15:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-20 15:15:54 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
+      "consumed_item": "2025-04-20 15:15:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "spartanweaponry:rapier": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
+      "has_rapier": "2025-04-20 15:15:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
+      "in_better_spider_dungeon": "2025-04-20 15:25:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "aquamirae:adventure/root": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
+      "crafting_table": "2025-04-20 15:18:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "spartanweaponry:quarterstaff": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
+      "has_quarterstaff": "2025-04-20 15:22:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:story/root": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
+      "crafting_table": "2025-04-20 15:18:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "dungeonnowloading:story/root": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
+      "obtain_crafting_table": "2025-04-20 15:18:50 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 05:32:14 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
