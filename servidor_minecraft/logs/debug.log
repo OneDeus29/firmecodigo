@@ -21859,3 +21859,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Apr2025 17:57:19.530] [Server thread/INFO] [Jade/]: Syncing config to buenxs14 (cad2ccbb-3c8e-33b8-9127-a3bec24f87d1)
 [20Apr2025 17:57:49.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundeto
 [20Apr2025 17:57:49.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundeto
+[20Apr2025 17:58:20.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 17:58:22.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Apr2025 17:58:22.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[20Apr2025 17:58:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[20Apr2025 18:00:50.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-200.74, y=47.00, z=225.60]
+[20Apr2025 18:01:46.371] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-201.50, y=47.54, z=200.25], dimensionLocationPath overworld
+[20Apr2025 18:01:46.371] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-201.50, y=47.54, z=200.25] in list []
+[20Apr2025 18:02:00.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-200.30, y=47.17, z=234.07]
+[20Apr2025 18:02:03.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-200.53, y=52.17, z=233.59], dimensionLocationPath overworld
+[20Apr2025 18:02:03.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-200.53, y=52.17, z=233.59] in list []
+[20Apr2025 18:02:05.551] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-197.11, y=54.20, z=230.50]
+[20Apr2025 18:02:09.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-207.93, y=58.00, z=232.42], dimensionLocationPath overworld
+[20Apr2025 18:02:09.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-207.93, y=58.00, z=232.42] in list []
+[20Apr2025 18:02:15.900] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Itz_Jusebg_FpF'/360, l='ServerLevel[Mundeto]', x=-207.54, y=70.00, z=233.21]
+[20Apr2025 18:02:51.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundeto
+[20Apr2025 18:02:51.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundeto
+[20Apr2025 18:07:51.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundeto
+[20Apr2025 18:07:51.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundeto
+[20Apr2025 18:08:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Covered in Moss]
+[20Apr2025 18:08:26.297] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=397, y=-9, z=205}
+[20Apr2025 18:08:26.298] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=388, y=-9, z=204}
+[20Apr2025 18:08:26.444] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=397, y=-9, z=205}
+[20Apr2025 18:08:26.445] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=397, y=-9, z=210}
+[20Apr2025 18:08:27.883] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: dungeons_enhanced:dungeon_variant
+[20Apr2025 18:08:27.883] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_enhanced:dungeon_variant' in chunk [25, -15], discarding
