@@ -202,6 +202,7 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2025-04-20 04:14:25 +0000",
       "minecraft:river": "2025-04-20 15:18:10 +0000",
+      "minecraft:lush_caves": "2025-04-20 15:31:46 +0000",
       "minecraft:jungle": "2025-04-20 05:31:05 +0000"
     },
     "done": false
@@ -310,6 +311,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-20 15:27:14 +0000",
+      "potato": "2025-04-20 15:28:49 +0000",
       "bread": "2025-04-20 15:15:54 +0000"
     },
     "done": false

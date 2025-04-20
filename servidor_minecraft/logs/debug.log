@@ -11887,3 +11887,106 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [20Apr2025 15:26:53.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4531ms or 90 ticks behind
 [20Apr2025 15:27:05.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
 [20Apr2025 15:27:12.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
+[20Apr2025 15:27:31.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4838ms or 96 ticks behind
+[20Apr2025 15:27:50.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3964ms or 79 ticks behind
+[20Apr2025 15:28:09.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3855ms or 77 ticks behind
+[20Apr2025 15:28:21.055] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:28:21.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 15:28:22.062] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:28:22.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 15:28:22.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:28:25.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:28:25.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 15:28:28.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3973ms or 79 ticks behind
+[20Apr2025 15:28:41.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:28:47.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4199ms or 83 ticks behind
+[20Apr2025 15:29:02.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:29:07.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4765ms or 95 ticks behind
+[20Apr2025 15:29:23.207] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[20Apr2025 15:29:23.207] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 23.0 Armor value: 1.0 Damage ignoring armor (50.0% damage): 11.5 Damage not ignoring armor: 11.5 Reduced Damage: 11.408 Result Damage: 22.908
+[20Apr2025 15:29:27.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4476ms or 89 ticks behind
+[20Apr2025 15:29:36.394] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[20Apr2025 15:29:36.394] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 1.0 Damage ignoring armor (50.0% damage): 10.0 Damage not ignoring armor: 10.0 Reduced Damage: 9.92 Result Damage: 19.92
+[20Apr2025 15:29:45.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3636ms or 72 ticks behind
+[20Apr2025 15:30:01.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:02.578] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:03.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:04.104] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:04.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3706ms or 74 ticks behind
+[20Apr2025 15:30:04.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:15.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:16.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:18.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:18.954] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:19.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:20.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:22.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3514ms or 70 ticks behind
+[20Apr2025 15:30:41.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3598ms or 71 ticks behind
+[20Apr2025 15:30:45.476] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:45.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 15:30:45.477] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 6.0 * Magnitude: 0.5 = Result damage: 3.0 - Overridden sweep damage ratio to 0.33333334
+[20Apr2025 15:30:57.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:30:57.344] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 15:30:57.344] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 6.0 * Magnitude: 0.5 = Result damage: 3.0 - Overridden sweep damage ratio to 0.33333334
+[20Apr2025 15:30:59.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
+[20Apr2025 15:31:10.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:31:11.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:31:13.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
+[20Apr2025 15:31:14.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:31:14.799] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 15:31:14.799] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 6.0 * Magnitude: 0.5 = Result damage: 3.0 - Overridden sweep damage ratio to 0.33333334
+[20Apr2025 15:31:15.383] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:31:18.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3704ms or 74 ticks behind
+[20Apr2025 15:31:35.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:31:35.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 15:31:35.217] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 6.0 * Magnitude: 0.5 = Result damage: 3.0 - Overridden sweep damage ratio to 0.33333334
+[20Apr2025 15:31:35.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:31:36.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
+[20Apr2025 15:31:44.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:31:44.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 15:31:44.236] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 6.0 * Magnitude: 0.5 = Result damage: 3.0 - Overridden sweep damage ratio to 0.33333334
+[20Apr2025 15:31:47.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has fallen
+[20Apr2025 15:31:49.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 hit the ground too hard
+[20Apr2025 15:31:49.763] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['buenxs14'/260, l='ServerLevel[Mundeto]', x=127.51, y=34.00, z=125.05]
+[20Apr2025 15:31:51.968] [Server thread/DEBUG] [twilightforest/]: Player buenxs14 (cad2ccbb-3c8e-33b8-9127-a3bec24f87d1) respawned and received items held in storage
+[20Apr2025 15:31:54.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
+[20Apr2025 15:31:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has been revived
+[20Apr2025 15:32:15.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5544ms or 110 ticks behind
+[20Apr2025 15:32:36.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5962ms or 119 ticks behind
+[20Apr2025 15:32:43.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundeto
+[20Apr2025 15:32:43.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundeto
+[20Apr2025 15:32:58.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6862ms or 137 ticks behind
+[20Apr2025 15:33:03.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved too quickly! 0.0,-11.419143166916015,-0.46507777359768454
+[20Apr2025 15:33:19.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5885ms or 117 ticks behind
+[20Apr2025 15:33:39.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5351ms or 107 ticks behind
+[20Apr2025 15:33:58.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4091ms or 81 ticks behind
+[20Apr2025 15:34:17.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3511ms or 70 ticks behind
+[20Apr2025 15:34:35.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3706ms or 74 ticks behind
+[20Apr2025 15:34:54.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
+[20Apr2025 15:35:12.053] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['buenxs14'/260, l='ServerLevel[Mundeto]', x=127.12, y=33.50, z=123.69], dimensionLocationPath overworld
+[20Apr2025 15:35:12.054] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['buenxs14'/260, l='ServerLevel[Mundeto]', x=127.12, y=33.50, z=123.69] in list []
+[20Apr2025 15:35:12.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[20Apr2025 15:35:30.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3229ms or 64 ticks behind
+[20Apr2025 15:35:48.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2993ms or 59 ticks behind
+[20Apr2025 15:36:07.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
+[20Apr2025 15:36:25.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3150ms or 63 ticks behind
+[20Apr2025 15:36:32.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF disturbed the avatar of Ah Puch, the Lord of Death and Darkness
+[20Apr2025 15:36:41.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:41.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 15:36:41.005] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 6.0 * Magnitude: 0.5 = Result damage: 3.0 - Overridden sweep damage ratio to 0.33333334
+[20Apr2025 15:36:41.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:42.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:42.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:43.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
+[20Apr2025 15:36:44.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:45.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:48.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:48.552] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:51.038] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:52.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 15:36:52.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
+[20Apr2025 15:36:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has fallen
+[20Apr2025 15:36:58.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has been revived
+[20Apr2025 15:37:02.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
+[20Apr2025 15:37:20.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
+[20Apr2025 15:37:23.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
