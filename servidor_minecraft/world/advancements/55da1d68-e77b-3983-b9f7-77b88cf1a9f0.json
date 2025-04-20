@@ -368,6 +368,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-04-20 17:15:02 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-04-20 16:21:03 +0000"
@@ -398,6 +404,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-20 17:17:46 +0000"
+    },
+    "done": true
+  },
   "1_splatus:ultris/illusioner": {
     "criteria": {
       "c1": "2025-04-20 17:10:28 +0000"
@@ -414,6 +426,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-20 17:09:47 +0000",
       "minecraft:skeleton": "2025-04-20 16:45:38 +0000",
+      "minecraft:vindicator": "2025-04-20 17:15:22 +0000",
       "minecraft:spider": "2025-04-20 16:35:34 +0000",
       "minecraft:creeper": "2025-04-20 16:29:23 +0000",
       "minecraft:witch": "2025-04-20 16:45:43 +0000",
@@ -421,6 +434,12 @@
       "minecraft:zombie": "2025-04-20 16:30:44 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-20 17:19:06 +0000"
+    },
+    "done": true
   },
   "call_of_yucutan:defeat_boss": {
     "criteria": {
