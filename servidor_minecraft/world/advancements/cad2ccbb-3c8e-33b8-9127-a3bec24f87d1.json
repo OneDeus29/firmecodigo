@@ -275,6 +275,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-20 15:41:06 +0000",
       "bread": "2025-04-20 04:29:12 +0000"
     },
     "done": false
@@ -297,9 +298,21 @@
     },
     "done": true
   },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-04-20 15:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-20 15:24:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-20 15:33:57 +0000"
     },
     "done": true
   },
