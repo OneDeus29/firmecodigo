@@ -201,6 +201,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-04-20 04:14:25 +0000",
+      "minecraft:beach": "2025-04-20 17:09:59 +0000",
       "minecraft:river": "2025-04-20 15:18:10 +0000",
       "minecraft:lush_caves": "2025-04-20 15:31:46 +0000",
       "minecraft:jungle": "2025-04-20 05:31:05 +0000"
@@ -397,6 +398,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-04-20 17:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-04-20 16:19:39 +0000"
@@ -405,6 +412,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-20 17:09:47 +0000",
       "minecraft:skeleton": "2025-04-20 16:45:38 +0000",
       "minecraft:spider": "2025-04-20 16:35:34 +0000",
       "minecraft:creeper": "2025-04-20 16:29:23 +0000",
