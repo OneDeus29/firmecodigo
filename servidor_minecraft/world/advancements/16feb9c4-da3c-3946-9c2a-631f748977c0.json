@@ -410,9 +410,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_abandoned_temple": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "location0": "2025-04-20 21:32:03 +0000"
+      "the_wind_darkening_0": "2025-04-20 21:09:33 +0000"
     },
     "done": true
   },
@@ -422,21 +422,9 @@
     },
     "done": true
   },
-  "graveyard:graveyard/root": {
+  "dungeons_arise:find_heavenly_rider": {
     "criteria": {
-      "grave_01": "2025-04-20 21:30:44 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
-    "criteria": {
-      "all_effects": "2025-04-20 21:32:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:cestus": {
-    "criteria": {
-      "has_cestus": "2025-04-20 21:40:48 +0000"
+      "location0": "2025-04-20 21:15:16 +0000"
     },
     "done": true
   },
@@ -446,9 +434,21 @@
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_rider": {
+  "graveyard:graveyard/root": {
     "criteria": {
-      "location0": "2025-04-20 21:15:16 +0000"
+      "grave_01": "2025-04-20 21:30:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-20 21:32:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-04-20 21:32:09 +0000"
     },
     "done": true
   },
@@ -458,9 +458,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "spartanweaponry:cestus": {
     "criteria": {
-      "the_wind_darkening_0": "2025-04-20 21:09:33 +0000"
+      "has_cestus": "2025-04-20 21:40:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-04-20 22:20:23 +0000"
     },
     "done": true
   },
