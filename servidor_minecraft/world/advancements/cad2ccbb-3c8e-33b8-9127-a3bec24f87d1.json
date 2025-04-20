@@ -198,6 +198,7 @@
       "minecraft:beach": "2025-04-20 17:09:48 +0000",
       "minecraft:sparse_jungle": "2025-04-20 19:01:12 +0000",
       "minecraft:river": "2025-04-20 04:25:29 +0000",
+      "minecraft:stony_shore": "2025-04-20 20:46:03 +0000",
       "minecraft:lush_caves": "2025-04-20 15:31:14 +0000",
       "minecraft:jungle": "2025-04-20 04:27:52 +0000"
     },
@@ -533,6 +534,12 @@
       "illager_camp": "2025-04-20 20:36:39 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-04-20 20:58:14 +0000"
+    },
+    "done": true
   },
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
