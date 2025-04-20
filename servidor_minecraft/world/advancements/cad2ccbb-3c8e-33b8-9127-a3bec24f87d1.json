@@ -194,6 +194,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-20 22:57:38 +0000",
       "minecraft:bamboo_jungle": "2025-04-20 04:21:38 +0000",
       "minecraft:beach": "2025-04-20 17:09:48 +0000",
       "minecraft:sparse_jungle": "2025-04-20 19:01:12 +0000",
@@ -202,6 +203,7 @@
       "minecraft:dripstone_caves": "2025-04-20 21:34:09 +0000",
       "minecraft:grove": "2025-04-20 21:30:23 +0000",
       "minecraft:jagged_peaks": "2025-04-20 21:31:05 +0000",
+      "minecraft:forest": "2025-04-20 23:01:50 +0000",
       "minecraft:lush_caves": "2025-04-20 15:31:14 +0000",
       "minecraft:jungle": "2025-04-20 04:27:52 +0000",
       "minecraft:frozen_peaks": "2025-04-20 21:30:40 +0000",
@@ -507,8 +509,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "rocky_shrubland": "2025-04-20 23:01:48 +0000",
       "fungal_jungle": "2025-04-20 20:34:39 +0000",
       "highland": "2025-04-20 21:27:58 +0000",
+      "jade_cliffs": "2025-04-20 23:01:31 +0000",
       "moor": "2025-04-20 21:28:21 +0000",
       "volcanic_plains": "2025-04-20 19:59:54 +0000",
       "grassland": "2025-04-20 21:27:19 +0000"
@@ -557,87 +561,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "totw_modded:jungle_tower": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
+      "jungle": "2025-04-20 21:19:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "dungeons_arise:find_heavenly_rider": {
     "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
+      "location0": "2025-04-20 21:20:32 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 21:48:17 +0000"
-    },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-04-20 21:31:07 +0000"
-    },
-    "done": true
-  },
-  "totw_modded:jungle_tower": {
-    "criteria": {
-      "jungle": "2025-04-20 21:19:31 +0000"
     },
     "done": true
   },
@@ -647,9 +585,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_rider": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "location0": "2025-04-20 21:20:32 +0000"
+      "lifeturnedouttobeacomedy_0": "2025-04-20 23:03:12 +0000"
     },
     "done": true
   },
