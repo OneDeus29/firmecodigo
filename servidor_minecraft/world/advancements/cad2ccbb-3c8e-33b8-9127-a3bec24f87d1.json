@@ -520,5 +520,11 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-04-20 20:13:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
