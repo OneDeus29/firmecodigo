@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 18:27:48 +0000"
-    },
-    "done": false
-  },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
       "requirement": "2025-04-20 18:27:47 +0000"
@@ -28,12 +22,6 @@
       "sample_trigger": "2025-04-20 18:27:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 18:27:48 +0000"
-    },
-    "done": false
   },
   "dungeons_arise:wda_root": {
     "criteria": {
@@ -107,12 +95,6 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 18:27:48 +0000"
-    },
-    "done": false
-  },
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
     "criteria": {
       "requirement": "2025-04-20 18:27:47 +0000"
@@ -137,12 +119,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:bamboo_jungle": "2025-04-20 18:27:48 +0000"
-    },
-    "done": false
-  },
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
     "criteria": {
       "requirement": "2025-04-20 18:27:47 +0000"
@@ -160,12 +136,6 @@
       "custom_test_name": "2025-04-20 18:27:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 18:27:48 +0000"
-    },
-    "done": false
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
@@ -200,6 +170,49 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-20 18:27:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 18:27:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 18:27:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 18:27:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2025-04-20 18:27:48 +0000",
+      "minecraft:river": "2025-04-20 18:33:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-20 18:27:48 +0000"
+    },
+    "done": false
+  },
+  "stellarity:events/items/spellbooks/natures_wrath/been_to_jungle": {
+    "criteria": {
+      "2": "2025-04-20 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-20 18:32:37 +0000"
     },
     "done": true
   },
