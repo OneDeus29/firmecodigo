@@ -281,6 +281,7 @@
       "cooked_beef": "2025-04-20 19:36:30 +0000",
       "apple": "2025-04-20 15:41:06 +0000",
       "bread": "2025-04-20 04:29:12 +0000",
+      "melon_slice": "2025-04-20 20:38:45 +0000",
       "carrot": "2025-04-20 15:47:27 +0000"
     },
     "done": false
@@ -498,6 +499,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "fungal_jungle": "2025-04-20 20:34:39 +0000",
       "volcanic_plains": "2025-04-20 19:59:54 +0000"
     },
     "done": false
@@ -520,81 +522,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 20:27:48 +0000"
-    },
-    "done": false
-  },
   "legendary_monsters:locate_mossy_temple": {
     "criteria": {
       "mossy_temple": "2025-04-20 20:13:41 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-04-20 20:36:39 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-04-20 20:43:30 +0000"
     },
     "done": true
   },
