@@ -525,7 +525,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "fungal_jungle": "2025-04-20 20:29:27 +0000",
-      "volcanic_plains": "2025-04-20 19:59:07 +0000"
+      "highland": "2025-04-20 21:28:28 +0000",
+      "volcanic_plains": "2025-04-20 19:59:07 +0000",
+      "grassland": "2025-04-20 21:28:07 +0000"
     },
     "done": false
   },

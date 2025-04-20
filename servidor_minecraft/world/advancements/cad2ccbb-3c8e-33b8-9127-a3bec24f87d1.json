@@ -414,6 +414,7 @@
       "minecraft:vindicator": "2025-04-20 17:16:18 +0000",
       "minecraft:spider": "2025-04-20 17:49:00 +0000",
       "minecraft:witch": "2025-04-20 16:47:06 +0000",
+      "minecraft:wither_skeleton": "2025-04-20 21:24:29 +0000",
       "minecraft:cave_spider": "2025-04-20 16:57:43 +0000",
       "minecraft:zombie": "2025-04-20 16:58:44 +0000",
       "minecraft:zombie_villager": "2025-04-20 17:19:26 +0000"
@@ -501,7 +502,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "fungal_jungle": "2025-04-20 20:34:39 +0000",
-      "volcanic_plains": "2025-04-20 19:59:54 +0000"
+      "highland": "2025-04-20 21:27:58 +0000",
+      "moor": "2025-04-20 21:28:21 +0000",
+      "volcanic_plains": "2025-04-20 19:59:54 +0000",
+      "grassland": "2025-04-20 21:27:19 +0000"
     },
     "done": false
   },
