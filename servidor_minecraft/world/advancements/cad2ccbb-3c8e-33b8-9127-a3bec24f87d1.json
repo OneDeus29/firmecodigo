@@ -299,9 +299,15 @@
     },
     "done": true
   },
-  "stellarity:events/on_death": {
+  "stellarity:events/items/spellbooks/natures_wrath/been_to_jungle": {
     "criteria": {
-      "requirement": "2025-04-20 15:37:29 +0000"
+      "1": "2025-04-20 15:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-20 15:16:24 +0000"
     },
     "done": true
   },
@@ -311,9 +317,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_small_blimp": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "location0": "2025-04-20 15:33:57 +0000"
+      "killed_something": "2025-04-20 15:26:02 +0000"
     },
     "done": true
   },
@@ -323,27 +329,33 @@
     },
     "done": false
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-20 15:16:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-04-20 15:26:02 +0000"
-    },
-    "done": true
-  },
-  "stellarity:events/items/spellbooks/natures_wrath/been_to_jungle": {
-    "criteria": {
-      "1": "2025-04-20 15:13:09 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-04-20 15:26:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-04-20 15:33:57 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-04-20 15:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-20 16:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-20 16:21:51 +0000"
     },
     "done": true
   },
