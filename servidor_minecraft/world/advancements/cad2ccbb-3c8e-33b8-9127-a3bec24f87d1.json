@@ -408,6 +408,7 @@
       "minecraft:pillager": "2025-04-20 17:14:49 +0000",
       "minecraft:skeleton": "2025-04-20 16:48:21 +0000",
       "minecraft:vindicator": "2025-04-20 17:16:18 +0000",
+      "minecraft:spider": "2025-04-20 17:49:00 +0000",
       "minecraft:witch": "2025-04-20 16:47:06 +0000",
       "minecraft:cave_spider": "2025-04-20 16:57:43 +0000",
       "minecraft:zombie": "2025-04-20 16:58:44 +0000",
@@ -472,6 +473,18 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-04-20 17:33:58 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/technical/used_shield": {
+    "criteria": {
+      "requirement": "2025-04-20 17:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-20 17:52:00 +0000"
     },
     "done": true
   },
