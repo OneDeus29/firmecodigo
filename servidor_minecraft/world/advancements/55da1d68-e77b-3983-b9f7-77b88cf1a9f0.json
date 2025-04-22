@@ -1,745 +1,1650 @@
 {
-  "totw_modded:root": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "sample_trigger": "2025-04-20 04:13:51 +0000"
+      "has_planks": "2025-04-22 04:22:37 +0000"
     },
     "done": true
   },
-  "create:root": {
+  "spartanweaponry:recipes/golden_rapier": {
     "criteria": {
-      "0": "2025-04-20 04:13:51 +0000"
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
     },
     "done": true
   },
-  "majruszsdifficulty:game_stage_normal": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "is_triggered": "2025-04-20 04:13:52 +0000"
+      "has_stick": "2025-04-22 04:22:39 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "spartanshields:recipes/silver_tower_shield": {
     "criteria": {
-      "tick": "2025-04-20 04:14:17 +0000"
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
     },
     "done": true
   },
-  "takesapillage:root": {
+  "spartanweaponry:recipes/golden_halberd": {
     "criteria": {
-      "always": "2025-04-20 04:14:17 +0000"
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
     },
     "done": true
   },
-  "stellarity:dragons_den/cursed_tome/root": {
+  "spartanweaponry:recipes/golden_dagger": {
     "criteria": {
-      "requirement": "2025-04-20 04:14:17 +0000"
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "spartanweaponry:recipes/wooden_scythe": {
     "criteria": {
-      "WDA": "2025-04-20 04:14:17 +0000"
+      "has_wood": "2025-04-22 04:22:37 +0000"
     },
     "done": true
   },
-  "legendary_monsters:end_root": {
+  "spartanweaponry:recipes/stone_glaive": {
     "criteria": {
-      "custom_test_name": "2025-04-20 04:14:17 +0000"
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
     },
     "done": true
   },
-  "stellarity:cursed_tome/root": {
+  "spartanweaponry:recipes/silver_saber": {
     "criteria": {
-      "requirement": "2025-04-20 04:14:17 +0000"
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
     },
     "done": true
   },
-  "1_splatus:ultris/root": {
+  "spartanweaponry:recipes/stone_longsword": {
     "criteria": {
-      "c1": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "faded_conquest_2:faded_2": {
-    "criteria": {
-      "faded_2_0": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "call_of_drowner:cod": {
-    "criteria": {
-      "cod_0": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "eeeabsmobs:eeeabsmobs/root": {
-    "criteria": {
-      "requirement": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:legendary_monsters_root": {
-    "criteria": {
-      "custom_test_name": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:nether_root": {
-    "criteria": {
-      "custom_test_name": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-04-20 04:14:17 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/drop_rare_illager_loot": {
-    "criteria": {
-      "drop5": "2025-04-20 04:14:18 +0000",
-      "drop3": "2025-04-20 04:14:18 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/conveyance": {
-    "criteria": {
-      "requirement": "2025-04-20 04:14:18 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/updraft": {
-    "criteria": {
-      "requirement": "2025-04-20 04:14:18 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/light": {
-    "criteria": {
-      "requirement": "2025-04-20 04:14:18 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
-    "criteria": {
-      "requirement": "2025-04-20 04:14:18 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spellbooks/natures_wrath": {
-    "criteria": {
-      "requirement": "2025-04-20 04:14:18 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
-    "criteria": {
-      "requirement": "2025-04-20 04:14:18 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
-    "criteria": {
-      "requirement": "2025-04-20 04:14:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2025-04-20 04:14:20 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 04:14:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 04:14:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 04:14:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:birch_forest": "2025-04-20 22:34:56 +0000",
-      "minecraft:bamboo_jungle": "2025-04-20 04:14:25 +0000",
-      "minecraft:beach": "2025-04-20 17:09:59 +0000",
-      "minecraft:dark_forest": "2025-04-20 21:30:21 +0000",
-      "minecraft:sparse_jungle": "2025-04-20 18:51:44 +0000",
-      "minecraft:river": "2025-04-20 15:18:10 +0000",
-      "minecraft:lukewarm_ocean": "2025-04-20 20:35:51 +0000",
-      "minecraft:stony_shore": "2025-04-20 21:03:21 +0000",
-      "minecraft:dripstone_caves": "2025-04-20 21:39:02 +0000",
-      "minecraft:grove": "2025-04-20 21:30:30 +0000",
-      "minecraft:jagged_peaks": "2025-04-20 21:31:17 +0000",
-      "minecraft:forest": "2025-04-20 22:35:14 +0000",
-      "minecraft:lush_caves": "2025-04-20 15:31:46 +0000",
-      "minecraft:jungle": "2025-04-20 05:31:05 +0000",
-      "minecraft:frozen_peaks": "2025-04-20 21:31:04 +0000",
-      "minecraft:meadow": "2025-04-20 21:38:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 04:14:25 +0000"
-    },
-    "done": false
-  },
-  "stellarity:events/items/spellbooks/natures_wrath/been_to_jungle": {
-    "criteria": {
-      "2": "2025-04-20 04:14:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-04-20 04:26:15 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:creeperling": {
-    "criteria": {
-      "encountered_creeperling": "2025-04-20 04:53:48 +0000"
-    },
-    "done": true
-  },
-  "stellarity:events/on_death": {
-    "criteria": {
-      "requirement": "2025-04-20 04:53:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-04-20 15:15:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-04-20 15:15:39 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:rapier": {
-    "criteria": {
-      "has_rapier": "2025-04-20 15:15:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2025-04-20 16:52:25 +0000",
-      "apple": "2025-04-20 15:27:14 +0000",
-      "potato": "2025-04-20 15:28:49 +0000",
-      "bread": "2025-04-20 15:15:54 +0000",
-      "melon_slice": "2025-04-20 16:18:31 +0000",
-      "golden_carrot": "2025-04-20 19:59:31 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-20 15:15:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-04-20 15:15:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-20 15:16:27 +0000"
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
     },
     "done": true
   },
   "paraglider:root": {
     "criteria": {
-      "crafting_table": "2025-04-20 15:18:50 +0000"
+      "crafting_table": "2025-04-22 04:22:39 +0000"
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
+  "valhelsia_structures:recipes/building_blocks/bone_pile": {
     "criteria": {
-      "crafting_table": "2025-04-20 15:18:50 +0000"
+      "has_bone": "2025-04-22 04:25:00 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/tools/golden_axe": {
     "criteria": {
-      "crafting_table": "2025-04-20 15:18:50 +0000"
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
     },
     "done": true
   },
-  "dungeonnowloading:story/root": {
+  "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
-      "obtain_crafting_table": "2025-04-20 15:18:50 +0000"
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-04-22 04:20:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_spear": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
     },
     "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
-      "get_stone": "2025-04-20 15:21:06 +0000"
+      "get_stone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_javelin": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_lance": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-04-22 04:20:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_spear": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-22 04:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-22 04:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_battle_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-22 04:20:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_warhammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-22 04:25:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_saber": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_pike": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-22 04:20:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_glaive": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-04-22 04:22:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-22 04:20:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battleaxe": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-04-22 04:20:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_scythe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-22 04:20:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_glaive": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/medium_quiver_brace": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-22 04:22:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battleaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_greatsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_throwing_knife": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/paraglider": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/silver_basic_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-22 04:25:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_warhammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 04:22:10 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:araucaria_savanna": "2025-04-22 04:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_tomahawk": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_flanged_mace": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:20:34 +0000"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_heavy_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_scythe": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_parrying_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_battleaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_lance": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_flanged_mace": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_quarterstaff": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battle_hammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_throwing_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_boomerang": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_heavy_crossbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-22 04:24:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:araucaria_savanna": "2025-04-22 04:20:34 +0000",
+      "biomeswevegone:mojave_desert": "2025-04-22 04:23:42 +0000",
+      "biomeswevegone:ironwood_gour": "2025-04-22 04:23:40 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/wooden_pike": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_saber": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-22 04:25:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_greatsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-22 04:25:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_quarterstaff": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_katana": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_halberd": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_javelin": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_throwing_knife": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-22 04:20:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-22 04:23:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_parrying_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_boomerang": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:20:34 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_lance": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:20:34 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_rapier": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_desk_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
     },
     "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
-      "stone_pickaxe": "2025-04-20 15:21:15 +0000"
+      "stone_pickaxe": "2025-04-22 04:23:57 +0000"
     },
     "done": true
   },
-  "spartanweaponry:lance": {
+  "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
     "criteria": {
-      "has_lance": "2025-04-20 15:22:04 +0000"
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
     },
     "done": true
   },
-  "spartanweaponry:quarterstaff": {
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
     "criteria": {
-      "has_quarterstaff": "2025-04-20 15:22:04 +0000"
+      "in_water": "2025-04-22 04:23:30 +0000"
     },
     "done": true
   },
-  "spartanweaponry:pike": {
+  "spartanweaponry:recipes/stone_flanged_mace": {
     "criteria": {
-      "has_pike": "2025-04-20 15:22:05 +0000"
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
     },
     "done": true
   },
-  "spartanweaponry:heavy_crossbow": {
+  "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
-      "has_heavy_crossbow": "2025-04-20 15:22:06 +0000"
+      "acacia_blossom": "2025-04-22 04:22:10 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_small_blimp": {
+  "valhelsia_furniture:recipes/decorations/light_blue_acacia_chair": {
     "criteria": {
-      "location0": "2025-04-20 15:23:57 +0000"
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
     },
     "done": true
   },
-  "betterdungeons:all_dungeons": {
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-20 15:25:13 +0000"
+      "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_katana": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:20:34 +0000"
     },
     "done": false
   },
-  "betterdungeons:spider_dungeon": {
+  "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-20 15:25:13 +0000"
+      "has_planks": "2025-04-22 04:22:37 +0000"
     },
     "done": true
   },
-  "spartanweaponry:glaive": {
+  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
     "criteria": {
-      "has_glaive": "2025-04-20 16:11:30 +0000"
+      "has_acacia_planks": "2025-04-22 04:22:37 +0000"
     },
     "done": true
   },
-  "call_of_yucutan:defeat_boss": {
+  "spartanweaponry:recipes/stone_pike": {
     "criteria": {
-      "defeat_boss_0": "2025-04-20 16:13:09 +0000"
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
-      "avoid_vibration": "2025-04-20 16:19:39 +0000"
+      "has_item": "2025-04-22 04:25:00 +0000"
     },
     "done": true
   },
-  "spartanweaponry:collect_heads": {
+  "spartanweaponry:recipes/golden_tomahawk": {
     "criteria": {
-      "skeleton_skull": "2025-04-20 16:19:49 +0000"
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_katana": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_pike": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-04-22 04:23:31 +0000",
+      "minecraft:stony_shore": "2025-04-22 04:23:49 +0000"
     },
     "done": false
   },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+  "spartanweaponry:recipes/wooden_tomahawk": {
     "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-04-20 16:21:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-04-20 17:09:47 +0000",
-      "minecraft:skeleton": "2025-04-20 16:45:38 +0000",
-      "minecraft:hoglin": "2025-04-20 21:11:47 +0000",
-      "minecraft:vindicator": "2025-04-20 17:15:22 +0000",
-      "minecraft:spider": "2025-04-20 16:35:34 +0000",
-      "minecraft:creeper": "2025-04-20 16:29:23 +0000",
-      "minecraft:phantom": "2025-04-20 21:13:20 +0000",
-      "minecraft:witch": "2025-04-20 16:45:43 +0000",
-      "minecraft:wither_skeleton": "2025-04-20 21:12:21 +0000",
-      "minecraft:husk": "2025-04-20 19:13:36 +0000",
-      "minecraft:cave_spider": "2025-04-20 16:48:53 +0000",
-      "minecraft:stray": "2025-04-20 21:33:29 +0000",
-      "minecraft:zombie": "2025-04-20 16:30:44 +0000",
-      "minecraft:zombie_villager": "2025-04-20 18:46:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:creeper": "2025-04-20 16:29:23 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
-    "criteria": {
-      "loot_simple_dungeon": "2025-04-20 16:35:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-04-20 16:46:56 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding": {
-    "criteria": {
-      "bleeding_applied": "2025-04-20 16:51:45 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/technical/used_shield": {
-    "criteria": {
-      "requirement": "2025-04-20 16:53:01 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/illusioner": {
-    "criteria": {
-      "c1": "2025-04-20 17:10:28 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding_inflicted": {
-    "criteria": {
-      "bleeding_applied": "2025-04-20 17:15:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-04-20 17:17:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-04-20 17:19:06 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/sabrewing": {
-    "criteria": {
-      "requirement": "2025-04-20 17:48:34 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
-    "criteria": {
-      "requirement": "2025-04-20 17:48:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-04-20 17:48:36 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_mossy_temple": {
-    "criteria": {
-      "mossy_temple": "2025-04-20 18:08:19 +0000"
+      "has_wood": "2025-04-22 04:22:37 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "killed_fire_dragon": "2025-04-20 18:12:01 +0000"
+      "killed_fire_dragon": "2025-04-22 04:25:11 +0000"
     },
     "done": true
   },
-  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+  "spartanweaponry:recipes/combat/simple_handle": {
     "criteria": {
-      "find_labyrinth": "2025-04-20 18:17:17 +0000"
+      "has_stick": "2025-04-22 04:22:39 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_foliaath": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "foliaath": "2025-04-20 19:05:42 +0000"
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
     },
     "done": true
   },
-  "spartanweaponry:katana": {
+  "spartanweaponry:recipes/stone_dagger": {
     "criteria": {
-      "has_katana": "2025-04-20 19:13:42 +0000"
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "volcanic_plains": "2025-04-20 19:59:07 +0000"
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
+  "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
-      "rocky_shrubland": "2025-04-20 22:35:16 +0000",
-      "fungal_jungle": "2025-04-20 20:29:27 +0000",
-      "highland": "2025-04-20 21:28:28 +0000",
-      "jade_cliffs": "2025-04-20 22:35:59 +0000",
-      "moor": "2025-04-20 21:29:34 +0000",
-      "volcanic_plains": "2025-04-20 19:59:07 +0000",
-      "grassland": "2025-04-20 21:28:07 +0000"
-    },
-    "done": false
-  },
-  "call_of_yucutan:get_burnt_by_light": {
-    "criteria": {
-      "get_burnt_by_light_0": "2025-04-20 20:00:59 +0000"
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
     },
     "done": true
   },
-  "call_of_yucutan:interact_with_mirror": {
+  "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
-      "interact_with_mirror_0": "2025-04-20 20:01:13 +0000"
+      "in_water": "2025-04-22 04:23:30 +0000"
     },
     "done": true
   },
-  "1_splatus:ultris/ender": {
+  "valhelsia_structures:recipes/building_blocks/acacia_post": {
     "criteria": {
-      "c1": "2025-04-20 20:02:15 +0000"
+      "has_item": "2025-04-22 04:22:10 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
-      "shot_arrow": "2025-04-20 20:23:39 +0000"
+      "has_cobblestone": "2025-04-22 04:22:54 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
+  "minecraft:story/root": {
     "criteria": {
-      "illager_camp": "2025-04-20 20:33:48 +0000"
-    },
-    "done": false
-  },
-  "hopo:minecraft/adventure/locate_all_underwater_structures": {
-    "criteria": {
-      "locate_ruin_warm": "2025-04-20 20:36:04 +0000"
-    },
-    "done": false
-  },
-  "graveyard:graveyard/giant_mushroom": {
-    "criteria": {
-      "giant_mushroom": "2025-04-20 20:40:14 +0000"
+      "crafting_table": "2025-04-22 04:22:39 +0000"
     },
     "done": true
   },
-  "endrem:main/cold_eye": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "cold_eye": "2025-04-20 20:43:00 +0000"
+      "has_log": "2025-04-22 04:22:10 +0000"
     },
     "done": true
   },
-  "endrem:main/root": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "cold_eye": "2025-04-20 20:43:00 +0000"
+      "in_water": "2025-04-22 04:23:30 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
-      "leafcutter_ant_pupa": "2025-04-20 20:51:36 +0000"
+      "has_gold_ingot": "2025-04-22 04:25:01 +0000"
     },
     "done": true
-  },
-  "totw_modded:jungle_tower": {
-    "criteria": {
-      "jungle": "2025-04-20 20:53:41 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_rider": {
-    "criteria": {
-      "location0": "2025-04-20 20:59:03 +0000"
-    },
-    "done": true
-  },
-  "stellarity:adventure/night_sky_stalkers": {
-    "criteria": {
-      "sleep_deprivation": "2025-04-20 21:13:20 +0000"
-    },
-    "done": true
-  },
-  "stellarity:adventure/kill_large_phantom": {
-    "criteria": {
-      "size_doesnt_matter": "2025-04-20 21:13:20 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-04-20 21:31:31 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:cestus": {
-    "criteria": {
-      "has_cestus": "2025-04-20 21:32:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:throwing_knife": {
-    "criteria": {
-      "has_throwing_knife": "2025-04-20 21:37:32 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_abandoned_crypt": {
-    "criteria": {
-      "abandoned_crypt": "2025-04-20 22:39:20 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_haunted_guard": {
-    "criteria": {
-      "ambusher": "2025-04-20 22:39:41 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_haunted_knight": {
-    "criteria": {
-      "ambusher": "2025-04-20 22:39:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-20 23:03:15 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-20 23:15:12 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
