@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2025-04-22 04:22:54 +0000"
@@ -62,6 +68,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 04:29:17 +0000"
     },
     "done": true
   },
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-22 04:22:37 +0000"
@@ -212,6 +230,12 @@
   "biomeswevegone:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-04-22 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_windswept_sandstone_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
     },
     "done": true
   },
@@ -254,6 +278,18 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-22 04:25:40 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_pillar": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
     },
     "done": true
   },
@@ -335,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-04-22 04:22:37 +0000"
@@ -376,6 +418,12 @@
       "requirement": "2025-04-22 04:20:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/silver_glaive": {
     "criteria": {
@@ -422,6 +470,12 @@
   "spartanweaponry:recipes/combat/handle_from_leather": {
     "criteria": {
       "has_stick": "2025-04-22 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
     },
     "done": true
   },
@@ -539,9 +593,27 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-22 04:22:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/smooth_windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
     },
     "done": true
   },
@@ -578,6 +650,12 @@
   "spartanweaponry:recipes/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-22 04:30:50 +0000"
     },
     "done": true
   },
@@ -665,9 +743,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/cut_windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/windswept_sandstone_wall_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
     },
     "done": true
   },
@@ -680,6 +770,12 @@
   "spartanweaponry:recipes/golden_longbow": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_slab": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
     },
     "done": true
   },
@@ -737,6 +833,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-22 04:22:54 +0000"
@@ -754,6 +856,12 @@
       "has_acacia_planks": "2025-04-22 04:22:37 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
   },
   "biomeswevegone:recipes/transportation/cypress_boat": {
     "criteria": {
@@ -833,6 +941,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2025-04-22 04:29:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_stairs": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-22 04:23:30 +0000"
@@ -863,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-22 04:30:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-04-22 04:23:30 +0000"
@@ -878,6 +1004,12 @@
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-04-22 04:29:07 +0000"
     },
     "done": true
   },
@@ -922,6 +1054,12 @@
       "has_planks": "2025-04-22 04:22:37 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
@@ -1001,6 +1139,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/wooden_longsword": {
     "criteria": {
       "has_wood": "2025-04-22 04:22:37 +0000"
@@ -1073,6 +1217,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/jungle_post": {
+    "criteria": {
+      "has_item": "2025-04-22 04:29:17 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-22 04:23:31 +0000"
@@ -1085,11 +1235,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:araucaria_savanna": "2025-04-22 04:20:34 +0000",
+      "biomeswevegone:windswept_desert": "2025-04-22 04:26:43 +0000",
       "biomeswevegone:mojave_desert": "2025-04-22 04:23:42 +0000",
-      "biomeswevegone:ironwood_gour": "2025-04-22 04:23:40 +0000"
+      "biomeswevegone:ironwood_gour": "2025-04-22 04:23:40 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-04-22 04:27:53 +0000"
     },
     "done": false
   },
@@ -1171,6 +1329,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/golden_quarterstaff": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 04:25:01 +0000"
@@ -1189,6 +1353,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-22 04:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-22 04:23:30 +0000"
@@ -1201,6 +1371,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/wooden_katana": {
     "criteria": {
       "has_wood": "2025-04-22 04:22:37 +0000"
@@ -1210,6 +1386,12 @@
   "spartanweaponry:recipes/silver_halberd": {
     "criteria": {
       "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-04-22 04:25:42 +0000"
     },
     "done": true
   },
@@ -1254,6 +1436,12 @@
       "has_acacia_planks": "2025-04-22 04:22:37 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
     "criteria": {
@@ -1333,9 +1521,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-04-22 04:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-22 04:30:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_lance": {
     "criteria": {
       "has_silver_ingot": "2025-04-22 04:24:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_log": {
+    "criteria": {
+      "has_jungle_log": "2025-04-22 04:29:17 +0000"
     },
     "done": true
   },
@@ -1368,6 +1574,18 @@
       "has_acacia_planks": "2025-04-22 04:22:37 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-22 04:29:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-22 04:32:27 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -1417,9 +1635,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/zelkova_boat": {
     "criteria": {
       "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/windswept_sandstone_wall": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
     },
     "done": true
   },
@@ -1450,6 +1680,12 @@
   "biomeswevegone:recipes/transportation/green_enchanted_boat": {
     "criteria": {
       "in_water": "2025-04-22 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-04-22 04:25:42 +0000"
     },
     "done": true
   },
@@ -1555,12 +1791,36 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-22 04:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-04-22 04:29:15 +0000",
+      "minecraft:badlands": "2025-04-22 04:30:09 +0000",
+      "minecraft:sparse_jungle": "2025-04-22 04:29:13 +0000",
       "minecraft:river": "2025-04-22 04:23:31 +0000",
-      "minecraft:stony_shore": "2025-04-22 04:23:49 +0000"
+      "minecraft:stony_shore": "2025-04-22 04:23:49 +0000",
+      "minecraft:desert": "2025-04-22 04:30:10 +0000",
+      "minecraft:jungle": "2025-04-22 04:30:47 +0000",
+      "minecraft:plains": "2025-04-22 04:28:36 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sand": "2025-04-22 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-22 04:29:10 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/wooden_tomahawk": {
     "criteria": {
@@ -1598,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-04-22 04:29:10 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2025-04-22 04:22:54 +0000"
@@ -1619,6 +1885,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-22 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_windswept_sandstone_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-22 04:27:23 +0000"
     },
     "done": true
   },
