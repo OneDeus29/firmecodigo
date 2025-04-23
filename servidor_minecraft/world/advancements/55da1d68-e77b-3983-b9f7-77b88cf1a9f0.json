@@ -2899,6 +2899,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:prairie": "2025-04-23 20:55:50 +0000",
       "biomeswevegone:allium_shrubland": "2025-04-23 04:09:33 +0000"
     },
     "done": false
@@ -4352,6 +4353,18 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-04-23 20:51:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-23 21:04:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-23 21:04:11 +0000"
     },
     "done": true
   },
