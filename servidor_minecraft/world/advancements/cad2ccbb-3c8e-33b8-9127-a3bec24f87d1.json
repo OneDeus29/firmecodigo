@@ -89,6 +89,7 @@
       "minecraft:stony_shore": "2025-04-23 22:17:00 +0000",
       "minecraft:dripstone_caves": "2025-04-23 21:13:31 +0000",
       "minecraft:forest": "2025-04-23 04:08:32 +0000",
+      "minecraft:lush_caves": "2025-04-23 22:37:05 +0000",
       "minecraft:ocean": "2025-04-23 03:27:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 03:26:32 +0000",
       "minecraft:plains": "2025-04-23 04:09:18 +0000"
@@ -2232,6 +2233,7 @@
       "minecraft:vindicator": "2025-04-23 03:36:08 +0000",
       "minecraft:spider": "2025-04-23 20:46:37 +0000",
       "minecraft:husk": "2025-04-23 04:46:17 +0000",
+      "minecraft:cave_spider": "2025-04-23 22:29:55 +0000",
       "minecraft:stray": "2025-04-23 20:51:13 +0000",
       "minecraft:zombie": "2025-04-23 04:15:13 +0000"
     },
@@ -4406,6 +4408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-23 22:46:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-04-23 22:20:28 +0000"
@@ -4415,6 +4423,12 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-04-23 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-23 22:38:53 +0000"
     },
     "done": true
   },
@@ -4439,6 +4453,18 @@
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-23 22:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-23 22:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-23 22:31:43 +0000"
     },
     "done": true
   },
@@ -4514,9 +4540,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-23 22:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-23 22:31:43 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-23 22:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-23 22:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-23 22:38:53 +0000"
     },
     "done": true
   },
@@ -4556,6 +4606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-23 22:31:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-04-23 22:20:28 +0000"
@@ -4565,6 +4621,24 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-23 22:20:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-23 22:38:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-23 22:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-23 22:31:43 +0000"
     },
     "done": true
   },

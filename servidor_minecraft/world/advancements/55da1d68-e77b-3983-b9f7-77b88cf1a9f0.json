@@ -89,6 +89,7 @@
       "minecraft:stony_shore": "2025-04-23 22:17:03 +0000",
       "minecraft:dripstone_caves": "2025-04-23 21:10:32 +0000",
       "minecraft:forest": "2025-04-23 04:08:32 +0000",
+      "minecraft:lush_caves": "2025-04-23 22:37:00 +0000",
       "minecraft:ocean": "2025-04-23 03:33:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 03:26:58 +0000",
       "minecraft:plains": "2025-04-23 04:09:27 +0000"
@@ -950,6 +951,7 @@
       "minecraft:creeper": "2025-04-23 22:23:05 +0000",
       "minecraft:wither_skeleton": "2025-04-23 21:21:21 +0000",
       "minecraft:husk": "2025-04-23 04:45:53 +0000",
+      "minecraft:cave_spider": "2025-04-23 22:29:10 +0000",
       "minecraft:stray": "2025-04-23 21:10:46 +0000",
       "minecraft:zombie": "2025-04-23 04:11:12 +0000"
     },
@@ -4808,6 +4810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-23 22:28:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_warped_stool": {
     "criteria": {
       "has_white_wool": "2025-04-23 22:15:58 +0000"
@@ -4832,9 +4840,27 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-23 22:29:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-23 22:29:25 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_mangrove_chair": {
     "criteria": {
       "has_white_wool": "2025-04-23 22:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-23 22:28:19 +0000"
     },
     "done": true
   },
@@ -4868,6 +4894,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-23 22:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-23 22:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-23 22:31:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_stool": {
     "criteria": {
       "has_white_wool": "2025-04-23 22:15:58 +0000"
@@ -4880,6 +4924,12 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-23 22:29:25 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_cherry_stool": {
     "criteria": {
       "has_white_wool": "2025-04-23 22:15:58 +0000"
@@ -4889,6 +4939,12 @@
   "valhelsia_furniture:recipes/decorations/white_warped_chair": {
     "criteria": {
       "has_white_wool": "2025-04-23 22:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-23 22:28:19 +0000"
     },
     "done": true
   },
@@ -4928,9 +4984,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-23 22:28:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-23 22:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-23 22:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-23 22:31:58 +0000"
     },
     "done": true
   },
@@ -4964,6 +5038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-23 22:31:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_jungle_stool": {
     "criteria": {
       "has_white_wool": "2025-04-23 22:15:58 +0000"
@@ -4976,9 +5056,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-23 22:26:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-23 22:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-23 22:28:19 +0000"
     },
     "done": true
   },
@@ -4991,6 +5083,12 @@
   "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-04-23 22:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-23 22:28:19 +0000"
     },
     "done": true
   },
