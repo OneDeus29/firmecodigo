@@ -363,3 +363,17 @@
 [23Apr2025 21:59:41.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> o causam ya toy ya
 [23Apr2025 21:59:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> hablas cuando ya vuelvas p
 [23Apr2025 22:00:08.020] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50a578a3[id=<null>,name=nittzel,properties={},legacy=false] (/127.158.15.9:48629) lost connection: Disconnected
+[23Apr2025 22:17:27.409] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23Apr2025 22:18:57.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Mine? Mine? Mine?]
+[23Apr2025 22:19:58.050] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[23Apr2025 22:21:18.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> zz
+[23Apr2025 22:21:18.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[23Apr2025 22:21:18.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[23Apr2025 22:21:19.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> adadadas
+[23Apr2025 22:21:20.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> dad
+[23Apr2025 22:21:20.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> ad
+[23Apr2025 22:21:20.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[23Apr2025 22:21:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> asd
+[23Apr2025 22:24:11.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
+[23Apr2025 22:24:19.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
+[23Apr2025 22:30:31.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
