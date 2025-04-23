@@ -530,7 +530,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-23 03:29:31 +0000",
-      "minecraft:vindicator": "2025-04-23 03:37:02 +0000"
+      "minecraft:vindicator": "2025-04-23 03:37:02 +0000",
+      "minecraft:spider": "2025-04-23 04:15:13 +0000",
+      "minecraft:zombie": "2025-04-23 04:11:12 +0000"
     },
     "done": false
   },
@@ -567,6 +569,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-23 03:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-23 04:12:57 +0000"
     },
     "done": true
   },
@@ -1771,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-23 04:12:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 03:33:53 +0000"
@@ -1906,6 +1920,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-23 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-23 04:12:57 +0000"
     },
     "done": true
   },
@@ -2227,6 +2247,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-04-23 04:12:57 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-04-23 03:26:31 +0000"
@@ -2428,6 +2454,12 @@
   "spartanweaponry:recipes/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2025-04-23 03:28:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-23 04:10:39 +0000"
     },
     "done": true
   },
@@ -2635,6 +2667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-23 04:12:57 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/pink_sand": {
     "criteria": {
       "has_sand": "2025-04-23 04:07:52 +0000"
@@ -2835,6 +2873,12 @@
   "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-23 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-23 04:12:57 +0000"
     },
     "done": true
   },
