@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-04-23 04:55:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_scythe": {
     "criteria": {
       "has_wood": "2025-04-23 03:29:25 +0000"
@@ -88,6 +94,12 @@
       "has_hay_block": "2025-04-23 03:37:37 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
@@ -224,6 +236,12 @@
   "valhelsia_furniture:recipes/decorations/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-23 03:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
     },
     "done": true
   },
@@ -526,6 +544,12 @@
       "has_item": "2025-04-23 03:30:34 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_chair": {
     "criteria": {
@@ -956,6 +980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 03:36:22 +0000"
@@ -1033,6 +1063,12 @@
       "has_planks": "2025-04-23 03:29:25 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
@@ -1205,6 +1241,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-23 03:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
     },
     "done": true
   },
@@ -1424,6 +1466,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-23 03:30:34 +0000"
@@ -1471,6 +1519,12 @@
       "golden_apple": "2025-04-23 04:09:37 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-23 04:55:18 +0000"
+    },
+    "done": true
   },
   "valhelsia_structures:recipes/building_blocks/pink_metal_framed_glass": {
     "criteria": {
@@ -1844,6 +1898,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-23 04:17:48 +0000"
@@ -1873,6 +1933,12 @@
       "has_birch_planks": "2025-04-23 03:29:25 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/diamond_throwing_knife": {
     "criteria": {
@@ -1943,6 +2009,12 @@
   "spartanweaponry:recipes/golden_flanged_mace": {
     "criteria": {
       "has_gold_ingot": "2025-04-23 03:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
     },
     "done": true
   },
@@ -2288,6 +2360,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2025-04-23 03:52:09 +0000"
@@ -2432,6 +2510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-23 03:30:34 +0000"
@@ -2539,6 +2623,12 @@
       "has_gold_nugget": "2025-04-23 03:36:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/wooden_longsword": {
     "criteria": {
@@ -2900,11 +2990,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-04-23 03:29:25 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/golden_quarterstaff": {
     "criteria": {
@@ -3019,6 +3121,12 @@
       "has_birch_planks": "2025-04-23 03:29:25 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/wooden_katana": {
     "criteria": {
@@ -3169,6 +3277,12 @@
       "has_ingots/iron": "2025-04-23 03:36:22 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/iron_throwing_knife": {
     "criteria": {
@@ -3446,6 +3560,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-23 04:58:29 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-23 03:34:47 +0000"
@@ -3551,6 +3671,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-23 03:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
     },
     "done": true
   },
@@ -3866,6 +3992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 03:36:22 +0000"
@@ -3971,6 +4103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-04-23 03:48:12 +0000",
@@ -4055,6 +4193,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-23 03:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-04-23 04:55:18 +0000"
     },
     "done": true
   },
