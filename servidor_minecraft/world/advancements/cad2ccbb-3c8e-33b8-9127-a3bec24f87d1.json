@@ -1027,6 +1027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-23 04:21:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-23 03:34:47 +0000"
@@ -1126,6 +1132,12 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-23 03:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-23 04:21:30 +0000"
     },
     "done": true
   },
@@ -2263,6 +2275,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-23 04:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 03:36:22 +0000"
@@ -2644,6 +2662,12 @@
   "valhelsia_furniture:recipes/decorations/red_crimson_table": {
     "criteria": {
       "has_red_carpet": "2025-04-23 03:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-23 04:21:59 +0000"
     },
     "done": true
   },
