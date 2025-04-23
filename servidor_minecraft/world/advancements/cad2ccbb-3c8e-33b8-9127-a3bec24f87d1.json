@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-23 03:52:37 +0000"
@@ -669,6 +675,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-23 03:51:00 +0000",
       "minecraft:vindicator": "2025-04-23 03:36:08 +0000",
+      "minecraft:husk": "2025-04-23 04:46:17 +0000",
       "minecraft:zombie": "2025-04-23 04:15:13 +0000"
     },
     "done": false
@@ -1267,6 +1274,12 @@
     },
     "done": true
   },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-04-23 04:49:23 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-04-23 03:26:32 +0000"
@@ -1639,6 +1652,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_birch_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/golden_tower_shield": {
     "criteria": {
       "has_gold_ingot": "2025-04-23 03:52:09 +0000"
@@ -1744,6 +1763,12 @@
   "valhelsia_furniture:recipes/decorations/lime_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-23 03:52:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_dark_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
     },
     "done": true
   },
@@ -2899,6 +2924,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_warped_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-23 03:52:37 +0000"
@@ -3106,6 +3137,18 @@
   "valhelsia_furniture:recipes/decorations/brown_jungle_table": {
     "criteria": {
       "has_brown_carpet": "2025-04-23 03:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_jungle_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
     },
     "done": true
   },
@@ -3487,6 +3530,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_cherry_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-23 03:52:37 +0000"
@@ -3502,6 +3551,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-23 03:33:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-04-23 04:42:39 +0000"
     },
     "done": true
   },
@@ -3979,6 +4034,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_mangrove_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-23 03:41:04 +0000"
@@ -4054,6 +4121,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-23 03:38:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-04-23 04:46:08 +0000"
     },
     "done": true
   },
