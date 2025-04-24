@@ -5570,6 +5570,120 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-04-23 23:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-23 23:58:00 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-04-23 23:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-23 23:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 00:01:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/jungle_post": {
+    "criteria": {
+      "has_item": "2025-04-24 00:01:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_log": {
+    "criteria": {
+      "has_jungle_log": "2025-04-24 00:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-24 00:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-24 00:14:12 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-24 00:18:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-04-24 00:23:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-04-24 00:24:42 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-04-24 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-24 00:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-24 00:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-24 00:30:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-04-24 00:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-24 00:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-24 01:07:44 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-04-24 01:08:00 +0000"
@@ -5641,120 +5755,6 @@
       "log_spam_fixer": "2025-04-24 01:08:00 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-04-24 00:01:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-04-24 00:30:54 +0000"
-    },
-    "done": true
-  },
-  "stellarity:events/on_death": {
-    "criteria": {
-      "requirement": "2025-04-24 00:27:15 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/foragers_table": {
-    "criteria": {
-      "has_mushrooms": "2025-04-23 23:58:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-04-24 01:07:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-04-24 00:30:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-04-24 00:30:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed_by": "2025-04-24 00:24:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-04-23 23:58:02 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/jungle_post": {
-    "criteria": {
-      "has_item": "2025-04-24 00:01:24 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:battleaxe": {
-    "criteria": {
-      "has_battleaxe": "2025-04-24 00:32:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-04-24 00:47:33 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
-    "criteria": {
-      "killed_by": "2025-04-24 00:23:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-04-23 23:57:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-23 23:58:00 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_log": {
-    "criteria": {
-      "has_jungle_log": "2025-04-24 00:01:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-04-24 00:01:24 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-04-24 00:18:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-24 00:14:12 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
