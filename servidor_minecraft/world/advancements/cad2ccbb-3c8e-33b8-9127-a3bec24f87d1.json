@@ -3942,6 +3942,7 @@
       "biomeswevegone:windswept_desert": "2025-04-24 00:35:55 +0000",
       "biomeswevegone:crag_gardens": "2025-04-24 00:23:38 +0000",
       "biomeswevegone:fragment_jungle": "2025-04-23 23:26:30 +0000",
+      "biomeswevegone:rugged_badlands": "2025-04-24 02:44:19 +0000",
       "biomeswevegone:enchanted_tangle": "2025-04-24 00:22:21 +0000",
       "biomeswevegone:temperate_grove": "2025-04-23 23:09:11 +0000",
       "biomeswevegone:forgotten_forest": "2025-04-23 23:11:31 +0000",
@@ -5843,6 +5844,252 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-04-24 01:27:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "has_glaive": "2025-04-24 01:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-24 01:30:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-24 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-24 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-24 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-24 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 01:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 01:51:45 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_step_to_the_end": {
+    "criteria": {
+      "criteria": "2025-04-24 01:51:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-04-24 01:52:44 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-24 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2025-04-24 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-24 02:01:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-04-24 02:02:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-04-24 02:02:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-04-24 02:02:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-24 02:02:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-04-24 02:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-24 02:17:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-24 02:38:15 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-04-24 02:39:18 +0000"
@@ -5914,252 +6161,6 @@
       "log_spam_fixer": "2025-04-24 02:39:18 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-24 01:51:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/obsidian_basic_shield": {
-    "criteria": {
-      "has_obsidian": "2025-04-24 01:53:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-04-24 02:01:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-04-24 01:30:53 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-24 01:51:45 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
-    "criteria": {
-      "requirement": "2025-04-24 01:50:23 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/netherite_arrow": {
-    "criteria": {
-      "has_bow": "2025-04-24 01:50:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:greatsword": {
-    "criteria": {
-      "has_greatsword": "2025-04-24 01:27:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-04-24 01:53:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-04-24 01:50:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/sabrewing": {
-    "criteria": {
-      "requirement": "2025-04-24 01:50:23 +0000"
-    },
-    "done": true
-  },
-  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
-    "criteria": {
-      "has_item1": "2025-04-24 01:53:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-04-24 02:17:49 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/obsidian_tower_shield": {
-    "criteria": {
-      "has_obsidian": "2025-04-24 01:53:36 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:glaive": {
-    "criteria": {
-      "has_glaive": "2025-04-24 01:27:51 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
-    "criteria": {
-      "has_dragonscales_bronze": "2025-04-24 02:02:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_boots": {
-    "criteria": {
-      "has_item": "2025-04-24 02:02:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-04-24 02:02:11 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "stellarity:nether/a_step_to_the_end": {
-    "criteria": {
-      "criteria": "2025-04-24 01:51:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:battle_hammer": {
-    "criteria": {
-      "has_battle_hammer": "2025-04-24 01:52:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-24 02:38:15 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-24 02:02:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-04-24 01:53:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
-    "criteria": {
-      "has_item": "2025-04-24 02:02:11 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }

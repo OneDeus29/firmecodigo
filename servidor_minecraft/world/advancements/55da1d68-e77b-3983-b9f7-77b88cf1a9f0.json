@@ -5696,93 +5696,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 02:39:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/big_light_gray_glazed_jar": {
-    "criteria": {
-      "has_light_gray_terracotta": "2025-04-24 02:31:36 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/glazed_jar": {
-    "criteria": {
-      "has_terracotta": "2025-04-24 02:31:23 +0000"
     },
     "done": true
   },
@@ -5792,9 +5708,369 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/decorations/red_rock_brick_wall": {
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
-      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-24 01:34:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-24 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-24 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-24 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-24 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-24 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_windswept_sandstone_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_pillar": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/smooth_windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cut_windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/windswept_sandstone_wall_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_slab": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_stairs": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/windswept_sandstone_wall": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_windswept_sandstone_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-24 01:34:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-04-24 01:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-24 01:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-24 01:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-24 01:36:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-04-24 01:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-24 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 01:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 01:48:36 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_step_to_the_end": {
+    "criteria": {
+      "criteria": "2025-04-24 01:48:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-24 01:56:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-24 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-24 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-24 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-24 01:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-24 01:58:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-24 02:00:05 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-04-24 02:08:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-04-24 02:15:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-04-24 02:16:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-24 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-24 02:21:31 +0000"
     },
     "done": true
   },
@@ -5804,21 +6080,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
-    "criteria": {
-      "has_light_gray_terracotta": "2025-04-24 02:31:36 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/redstone/baobab_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-24 02:23:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "biomeswevegone:recipes/building_blocks/baobab_bookshelf": {
     "criteria": {
-      "has_blaze_powder": "2025-04-24 01:48:36 +0000"
+      "has_baobab_planks": "2025-04-24 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/baobab_slab": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_door": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/baobab_sign": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/baobab_crafting_table": {
+    "criteria": {
+      "has_baobab_planks": "2025-04-24 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/baobab_fence": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/baobab_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-24 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/red_rock_brick_wall": {
+    "criteria": {
+      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_rock_brick_wall_from_red_rock_bricks_stonecutting": {
+    "criteria": {
+      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/red_rock_brick_stairs": {
+    "criteria": {
+      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_rock_brick_slab_from_red_rock_bricks_stonecutting": {
+    "criteria": {
+      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/red_rock_brick_slab": {
+    "criteria": {
+      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/chiseled_red_rock_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-24 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_rock_brick_stairs_from_red_rock_bricks_stonecutting": {
+    "criteria": {
+      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-04-24 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cracked_red_rock_brick_wall_from_cracked_red_rock_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cracked_red_rock_brick_stairs": {
+    "criteria": {
+      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cracked_red_rock_brick_slab": {
+    "criteria": {
+      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/cracked_red_rock_brick_wall": {
+    "criteria": {
+      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_red_rock_brick_slab_from_cracked_red_rock_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_red_rock_brick_stairs_from_cracked_red_rock_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/glazed_jar": {
+    "criteria": {
+      "has_terracotta": "2025-04-24 02:31:23 +0000"
     },
     "done": true
   },
@@ -5840,63 +6248,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_rock_brick_wall_from_red_rock_bricks_stonecutting": {
-    "criteria": {
-      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 02:31:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_windswept_sandstone_from_windswept_sandstone_stonecutting": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-04-24 01:34:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 02:31:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-04-24 01:45:15 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/windswept_sandstone_pillar": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_deathworm": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-24 01:56:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-04-24 02:21:31 +0000"
     },
     "done": true
   },
@@ -5912,45 +6272,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-24 01:48:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 02:31:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-04-24 02:15:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-24 01:34:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/baobab_bookshelf": {
-    "criteria": {
-      "has_baobab_planks": "2025-04-24 02:23:15 +0000"
     },
     "done": true
   },
@@ -5960,111 +6284,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_leggings": {
-    "criteria": {
-      "has_item": "2025-04-24 01:56:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/red_rock_brick_stairs": {
-    "criteria": {
-      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_helmet": {
-    "criteria": {
-      "has_item": "2025-04-24 01:56:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 02:31:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_helmet": {
-    "criteria": {
-      "has_item": "2025-04-24 01:34:23 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/baobab_slab": {
-    "criteria": {
-      "has_planks": "2025-04-24 02:23:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-24 01:34:23 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/smooth_windswept_sandstone": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cracked_red_rock_brick_wall_from_cracked_red_rock_bricks_stonecutting": {
-    "criteria": {
-      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/cracked_red_rock_brick_stairs": {
-    "criteria": {
-      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-04-24 01:36:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/gold_pile": {
-    "criteria": {
-      "has_item": "2025-04-24 01:34:37 +0000"
     },
     "done": true
   },
@@ -6074,87 +6296,15 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/cut_windswept_sandstone": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/windswept_sandstone_wall_from_windswept_sandstone_stonecutting": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_rock_brick_slab_from_red_rock_bricks_stonecutting": {
-    "criteria": {
-      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 02:31:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/windswept_sandstone_slab": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_leggings": {
-    "criteria": {
-      "has_item": "2025-04-24 01:34:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_boots": {
-    "criteria": {
-      "has_item": "2025-04-24 01:34:23 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/baobab_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-24 02:23:15 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/baobab_door": {
-    "criteria": {
-      "has_planks": "2025-04-24 02:23:15 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/cracked_red_rock_brick_slab": {
-    "criteria": {
-      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 02:31:23 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/baobab_sign": {
-    "criteria": {
-      "has_planks": "2025-04-24 02:23:15 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/windswept_sandstone_stairs": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
     },
     "done": true
   },
@@ -6170,87 +6320,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-04-24 01:34:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 02:31:23 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/baobab_crafting_table": {
-    "criteria": {
-      "has_baobab_planks": "2025-04-24 02:23:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-24 02:00:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-04-24 01:58:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/baobab_fence": {
-    "criteria": {
-      "has_planks": "2025-04-24 02:23:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-24 01:56:31 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/cracked_red_rock_brick_wall": {
-    "criteria": {
-      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
     },
     "done": true
   },
@@ -6260,135 +6332,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
-    "criteria": {
-      "has_dragonscales_gray": "2025-04-24 01:34:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_boots": {
-    "criteria": {
-      "has_item": "2025-04-24 01:56:31 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/red_rock_brick_slab": {
-    "criteria": {
-      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_red_rock_brick_slab_from_cracked_red_rock_bricks_stonecutting": {
-    "criteria": {
-      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 02:31:23 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/baobab_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-24 02:23:15 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bandit_village": {
-    "criteria": {
-      "location0": "2025-04-24 02:32:58 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/light_gray_glazed_jar": {
-    "criteria": {
-      "has_light_gray_terracotta": "2025-04-24 02:31:36 +0000"
-    },
-    "done": true
-  },
-  "stellarity:nether/a_step_to_the_end": {
-    "criteria": {
-      "criteria": "2025-04-24 01:48:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/windswept_sandstone_wall": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bandit_towers": {
-    "criteria": {
-      "location0": "2025-04-24 01:39:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
-    "criteria": {
-      "has_item": "2025-04-24 02:21:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/chiseled_red_rock_bricks": {
-    "criteria": {
-      "has_tag": "2025-04-24 02:23:25 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-04-24 02:08:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_fire": {
-    "criteria": {
-      "has_item": "2025-04-24 02:16:51 +0000"
     },
     "done": true
   },
@@ -6398,53 +6344,107 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-24 01:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_rock_brick_stairs_from_red_rock_bricks_stonecutting": {
-    "criteria": {
-      "has_red_rock_bricks": "2025-04-24 02:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-04-24 01:36:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_windswept_sandstone_from_windswept_sandstone_stonecutting": {
-    "criteria": {
-      "has_windswept_sandstone": "2025-04-24 01:34:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-24 02:31:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "valhelsia_structures:recipes/decorations/big_light_gray_glazed_jar": {
     "criteria": {
-      "has_log": "2025-04-24 02:23:25 +0000"
+      "has_light_gray_terracotta": "2025-04-24 02:31:36 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/baobab_stairs": {
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
-      "has_planks": "2025-04-24 02:23:15 +0000"
+      "has_light_gray_terracotta": "2025-04-24 02:31:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_red_rock_brick_stairs_from_cracked_red_rock_bricks_stonecutting": {
+  "valhelsia_structures:recipes/decorations/light_gray_glazed_jar": {
     "criteria": {
-      "has_cracked_red_rock_bricks": "2025-04-24 02:23:26 +0000"
+      "has_light_gray_terracotta": "2025-04-24 02:31:36 +0000"
     },
     "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-04-24 02:32:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-24 02:43:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
