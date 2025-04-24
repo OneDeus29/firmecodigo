@@ -420,3 +420,11 @@ Missing minecraft:item:
 [24Apr2025 01:35:26.776] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
 [24Apr2025 01:39:02.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [What Happens in Las Vegas...]
 [24Apr2025 01:39:04.107] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[24Apr2025 01:42:53.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
+[24Apr2025 01:43:12.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 hit the ground too hard
+[24Apr2025 01:45:53.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
+[24Apr2025 01:45:58.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Skeleton
+[24Apr2025 01:48:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has reached the goal [A Step to The End]
+[24Apr2025 01:49:48.320] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Apr2025 01:49:48.323] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[24Apr2025 01:51:45.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has reached the goal [A Step to The End]

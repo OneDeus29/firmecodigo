@@ -5841,9 +5841,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-04-24 01:30:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
     },
     "done": true
   },
@@ -5853,9 +5883,81 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:glaive": {
     "criteria": {
       "has_glaive": "2025-04-24 01:27:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
     },
     "done": true
   },
