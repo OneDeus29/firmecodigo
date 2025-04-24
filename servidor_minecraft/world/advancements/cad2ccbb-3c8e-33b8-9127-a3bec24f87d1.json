@@ -5841,9 +5841,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 01:51:45 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-24 02:01:12 +0000"
     },
     "done": true
   },
@@ -5856,6 +5874,24 @@
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 01:51:45 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-24 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-24 01:50:23 +0000"
     },
     "done": true
   },
@@ -5883,15 +5919,45 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-24 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-24 01:50:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
     },
     "done": true
   },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-24 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2025-04-24 01:53:36 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 01:53:36 +0000"
     },
     "done": true
   },
@@ -5910,6 +5976,24 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-04-24 02:02:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-04-24 02:02:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-04-24 02:02:11 +0000"
     },
     "done": true
   },
@@ -5943,15 +6027,45 @@
     },
     "done": true
   },
+  "stellarity:nether/a_step_to_the_end": {
+    "criteria": {
+      "criteria": "2025-04-24 01:51:45 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
     },
     "done": true
   },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-04-24 01:52:44 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-24 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-24 02:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-04-24 02:02:11 +0000"
     },
     "done": true
   },

@@ -428,3 +428,84 @@ Missing minecraft:item:
 [24Apr2025 01:49:48.320] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [24Apr2025 01:49:48.323] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [24Apr2025 01:51:45.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has reached the goal [A Step to The End]
+[24Apr2025 01:52:29.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved wrongly!
+[24Apr2025 01:52:44.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Hammer Time!]
+[24Apr2025 01:53:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Ice Bucket Challenge]
+[24Apr2025 01:56:23.157] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:23.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:23.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:23.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:23.556] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:24.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:24.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:24.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:24.555] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:24.660] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:24.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:24.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:24.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.050] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.152] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.355] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.666] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.763] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.880] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:25.954] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.354] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.656] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:26.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:27.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:27.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:27.249] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:27.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:27.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:27.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:27.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:27.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:27.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Apr2025 01:56:29.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [The Desert Swimmers]
+[24Apr2025 01:58:10.779] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24Apr2025 01:58:11.792] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=-345, y=26, z=-2514}
+[24Apr2025 01:58:11.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=-343, y=24, z=-2514}
+[24Apr2025 01:58:11.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=-345, y=23, z=-2514}
+[24Apr2025 01:58:11.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=-344, y=24, z=-2514}
+[24Apr2025 01:58:11.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=-343, y=25, z=-2514}
+[24Apr2025 01:58:11.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=-345, y=24, z=-2514}
+[24Apr2025 01:58:11.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=-344, y=25, z=-2514}
+[24Apr2025 01:58:11.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=-343, y=26, z=-2514}
+[24Apr2025 01:58:11.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=-345, y=25, z=-2514}
+[24Apr2025 01:58:11.794] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=-344, y=26, z=-2514}
+[24Apr2025 01:58:11.794] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=-343, y=23, z=-2514}
+[24Apr2025 01:59:11.952] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[24Apr2025 01:59:11.953] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[24Apr2025 02:00:05.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [My Name is Nobody]
+[24Apr2025 02:00:47.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
+[24Apr2025 02:01:00.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
+[24Apr2025 02:01:12.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Take Aim]
+[24Apr2025 02:01:46.577] [Worker-Main-5/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[24Apr2025 02:02:14.361] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[24Apr2025 02:04:46.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
+[24Apr2025 02:04:50.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Lightning Dragon
+[24Apr2025 02:05:10.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzzzzzzzzzzzzzzzzz
+[24Apr2025 02:06:38.444] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1154, y=50, z=-2177}
+[24Apr2025 02:06:53.428] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[24Apr2025 02:08:39.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has completed the challenge [Praise the Sun]
+[24Apr2025 02:10:24.156] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1471, y=29, z=-2178}
+[24Apr2025 02:11:23.617] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[24Apr2025 02:11:28.371] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[24Apr2025 02:11:43.508] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1519, y=7, z=-2494}
+[24Apr2025 02:13:46.029] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1006, y=58, z=-1908} but found not block entity block Block{minecraft:water}[level=1] at location
+[24Apr2025 02:13:46.029] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1006, y=58, z=-1908}
+[24Apr2025 02:19:46.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[24Apr2025 02:21:04.546] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/48302, l='ServerLevel[world]', x=-436.30, y=102.00, z=-3260.36] died, message: 'Toolsmith was slain by Lightning Dragon'
+[24Apr2025 02:21:08.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/48305, l='ServerLevel[world]', x=-418.23, y=102.25, z=-3245.41] died, message: 'Cartographer was slain by Lightning Dragon'
