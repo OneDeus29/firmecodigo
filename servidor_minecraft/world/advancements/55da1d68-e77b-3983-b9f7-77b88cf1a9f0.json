@@ -1149,6 +1149,7 @@
       "golden_apple": "2025-04-24 02:31:02 +0000",
       "melon_slice": "2025-04-23 03:31:46 +0000",
       "golden_carrot": "2025-04-23 23:03:34 +0000",
+      "cooked_chicken": "2025-04-26 03:09:47 +0000",
       "rabbit_stew": "2025-04-23 03:31:09 +0000"
     },
     "done": false
@@ -7266,81 +7267,147 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_polished_diorite": "2025-04-26 03:15:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "valhelsia_furniture:recipes/decorations/brown_cherry_table": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_brown_carpet": "2025-04-26 03:15:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "valhelsia_furniture:recipes/decorations/brown_warped_table": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_brown_carpet": "2025-04-26 03:15:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "valhelsia_furniture:recipes/decorations/brown_acacia_table": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_brown_carpet": "2025-04-26 03:15:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_needed_dye": "2025-04-26 03:12:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_needed_dye": "2025-04-26 03:12:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "valhelsia_structures:recipes/decorations/black_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_color": "2025-04-26 03:12:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/misc/gray_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_black_dye": "2025-04-26 03:12:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "valhelsia_furniture:recipes/decorations/brown_oak_table": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_brown_carpet": "2025-04-26 03:15:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "valhelsia_furniture:recipes/decorations/brown_mangrove_table": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_brown_carpet": "2025-04-26 03:15:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "valhelsia_furniture:recipes/decorations/brown_dark_oak_table": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_brown_carpet": "2025-04-26 03:15:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "log_spam_fixer": "2025-04-26 03:08:41 +0000"
+      "has_item_frame": "2025-04-26 03:15:39 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_jungle_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-04-26 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_birch_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-04-26 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-04-26 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_crimson_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-04-26 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-04-26 03:12:32 +0000"
+    },
+    "done": true
   },
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2025-04-26 03:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-26 03:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-04-26 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-04-26 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-04-26 03:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-04-26 03:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-26 03:12:32 +0000"
     },
     "done": true
   },
