@@ -7731,9 +7731,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-26 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-26 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_yellow_glazed_jar": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-26 20:30:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/yellow_glazed_jar": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-26 20:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-26 20:30:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_spruce_post": {
+    "criteria": {
+      "has_item": "2025-04-26 20:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-26 20:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-26 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-26 20:28:07 +0000"
     },
     "done": true
   },
@@ -7746,6 +7806,18 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-26 20:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-26 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_acacia_post": {
+    "criteria": {
+      "has_item": "2025-04-26 20:29:59 +0000"
     },
     "done": true
   },

@@ -366,3 +366,4 @@
 [26Apr2025 20:09:41.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Itz_Jusebg_FpF) moved wrongly! 0.2835452933770739
 [26Apr2025 20:10:13.181] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
 [26Apr2025 20:10:15.126] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[26Apr2025 20:26:11.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=63, z=-4862} BlockPos{x=868, y=62, z=-4861}

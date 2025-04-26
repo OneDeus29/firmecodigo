@@ -6533,15 +6533,417 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-04-26 19:34:51 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-26 20:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 20:26:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 20:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 20:28:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_red_glazed_jar": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-26 20:28:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-04-26 20:24:15 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/red_glazed_jar": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-26 20:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-26 20:20:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 20:20:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-04-26 19:34:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-26 20:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-26 20:28:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-26 20:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-26 20:25:16 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-26 20:27:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-26 20:27:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-04-26 20:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-26 20:28:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-04-26 20:24:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_desk_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-04-26 20:24:15 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/oak_post": {
+    "criteria": {
+      "has_item": "2025-04-26 20:20:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_acacia_post": {
+    "criteria": {
+      "has_item": "2025-04-26 20:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-26 20:29:50 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-04-26 20:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 20:26:26 +0000"
     },
     "done": true
   },
