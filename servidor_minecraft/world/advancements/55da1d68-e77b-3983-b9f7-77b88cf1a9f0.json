@@ -7682,9 +7682,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/baobab_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 19:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-26 19:46:03 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/baobab_planks": {
+    "criteria": {
+      "has_log": "2025-04-26 19:53:56 +0000"
     },
     "done": true
   },
