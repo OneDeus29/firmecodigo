@@ -7731,9 +7731,39 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-26 21:01:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-04-26 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
     },
     "done": true
   },
@@ -7749,9 +7779,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_acacia_wood": {
     "criteria": {
       "has_log": "2025-04-26 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
     },
     "done": true
   },
@@ -7761,9 +7803,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/big_yellow_glazed_jar": {
     "criteria": {
       "has_yellow_terracotta": "2025-04-26 20:30:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
     },
     "done": true
   },
@@ -7791,15 +7857,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-04-26 20:39:06 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-26 20:11:20 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
     },
     "done": true
   },
@@ -7821,6 +7905,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-26 20:11:20 +0000"
@@ -7833,9 +7923,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/stripped_acacia_post": {
     "criteria": {
       "has_item": "2025-04-26 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-04-26 20:42:27 +0000"
     },
     "done": true
   },
