@@ -393,3 +393,7 @@
 [26Apr2025 21:27:56.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [The Parrots and the Bats]
 [26Apr2025 21:28:12.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved wrongly!
 [26Apr2025 21:42:12.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Enchanter]
+[26Apr2025 21:47:01.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=63, z=-4829} BlockPos{x=908, y=63, z=-4836}
+[26Apr2025 21:47:01.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=63, z=-4829} BlockPos{x=908, y=63, z=-4836}
+[26Apr2025 21:47:01.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=905, y=63, z=-4829} BlockPos{x=908, y=63, z=-4836}
+[26Apr2025 21:49:52.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> vuelvo en 30
