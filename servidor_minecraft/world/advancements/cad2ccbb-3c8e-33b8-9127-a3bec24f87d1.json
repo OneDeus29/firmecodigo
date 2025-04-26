@@ -6887,6 +6887,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-26 21:36:07 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"

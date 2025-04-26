@@ -7767,6 +7767,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-04-26 21:37:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-26 21:27:40 +0000"
@@ -7835,7 +7841,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2025-04-26 21:27:56 +0000"
+      "minecraft:sheep": "2025-04-26 21:27:56 +0000",
+      "minecraft:cow": "2025-04-26 21:34:10 +0000"
     },
     "done": false
   },
