@@ -7755,9 +7755,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/big_red_glazed_jar": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-26 20:39:06 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/big_yellow_glazed_jar": {
     "criteria": {
       "has_yellow_terracotta": "2025-04-26 20:30:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/red_glazed_jar": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-26 20:39:06 +0000"
     },
     "done": true
   },
@@ -7776,6 +7788,12 @@
   "valhelsia_structures:recipes/building_blocks/stripped_spruce_post": {
     "criteria": {
       "has_item": "2025-04-26 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-26 20:39:06 +0000"
     },
     "done": true
   },

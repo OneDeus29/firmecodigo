@@ -6539,6 +6539,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-26 20:35:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-04-26 19:34:51 +0000"
@@ -6551,9 +6563,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
     },
     "done": true
   },
@@ -6566,6 +6596,18 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
     },
     "done": true
   },
@@ -6671,6 +6713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-26 20:36:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/red_glazed_jar": {
     "criteria": {
       "has_red_terracotta": "2025-04-26 20:28:26 +0000"
@@ -6722,6 +6770,12 @@
   "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
     },
     "done": true
   },
@@ -6809,6 +6863,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-04-26 20:27:44 +0000"
@@ -6818,6 +6884,18 @@
   "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-26 20:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-26 20:35:33 +0000"
     },
     "done": true
   },
@@ -6839,6 +6917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
@@ -6848,6 +6932,18 @@
   "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-04-26 20:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
     },
     "done": true
   },
@@ -6866,6 +6962,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-04-26 20:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
     },
     "done": true
   },
@@ -6914,6 +7016,12 @@
   "valhelsia_structures:recipes/building_blocks/stripped_acacia_post": {
     "criteria": {
       "has_item": "2025-04-26 20:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-26 20:35:53 +0000"
     },
     "done": true
   },
