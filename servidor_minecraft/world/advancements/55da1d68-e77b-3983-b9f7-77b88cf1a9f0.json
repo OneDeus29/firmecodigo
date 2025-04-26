@@ -7743,6 +7743,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-04-26 21:16:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
     "criteria": {
       "has_acacia_slab": "2025-04-26 20:42:27 +0000"
@@ -7764,6 +7770,12 @@
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-26 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_rock_bricks_from_red_rock_stonecutting": {
+    "criteria": {
+      "has_red_rock": "2025-04-26 21:14:07 +0000"
     },
     "done": true
   },
@@ -7794,6 +7806,12 @@
   "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_stool": {
     "criteria": {
       "has_acacia_slab": "2025-04-26 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_rock_slab_from_red_rock_stonecutting": {
+    "criteria": {
+      "has_red_rock": "2025-04-26 21:14:07 +0000"
     },
     "done": true
   },
@@ -7836,6 +7854,12 @@
   "valhelsia_structures:recipes/decorations/red_glazed_jar": {
     "criteria": {
       "has_red_terracotta": "2025-04-26 20:39:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-04-26 21:15:38 +0000"
     },
     "done": true
   },
@@ -7929,6 +7953,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/red_rock_slab": {
+    "criteria": {
+      "has_red_rock": "2025-04-26 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/red_rock_bricks": {
+    "criteria": {
+      "has_red_rock": "2025-04-26 21:14:07 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_stool": {
     "criteria": {
       "has_acacia_slab": "2025-04-26 20:42:27 +0000"
@@ -7944,6 +7980,30 @@
   "valhelsia_structures:recipes/building_blocks/stripped_acacia_post": {
     "criteria": {
       "has_item": "2025-04-26 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/red_rock_wall": {
+    "criteria": {
+      "has_red_rock": "2025-04-26 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/red_rock_stairs": {
+    "criteria": {
+      "has_red_rock": "2025-04-26 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_rock_wall_from_red_rock_stonecutting": {
+    "criteria": {
+      "has_red_rock": "2025-04-26 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_rock_stairs_from_red_rock_stonecutting": {
+    "criteria": {
+      "has_red_rock": "2025-04-26 21:14:07 +0000"
     },
     "done": true
   },
