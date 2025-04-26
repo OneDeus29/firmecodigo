@@ -964,6 +964,7 @@
       "minecraft:vindicator": "2025-04-23 03:37:02 +0000",
       "minecraft:spider": "2025-04-23 04:15:13 +0000",
       "minecraft:creeper": "2025-04-23 22:23:05 +0000",
+      "minecraft:slime": "2025-04-26 03:58:19 +0000",
       "minecraft:phantom": "2025-04-25 04:07:26 +0000",
       "minecraft:witch": "2025-04-24 00:13:11 +0000",
       "minecraft:wither_skeleton": "2025-04-23 21:21:21 +0000",
@@ -7267,9 +7268,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-26 03:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-04-26 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_warped_table": {
+    "criteria": {
+      "has_black_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_table": {
+    "criteria": {
+      "has_red_carpet": "2025-04-26 03:53:29 +0000"
     },
     "done": true
   },
@@ -7297,9 +7316,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-26 04:10:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_cherry_table": {
+    "criteria": {
+      "has_black_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_table": {
+    "criteria": {
+      "has_red_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_mangrove_table": {
+    "criteria": {
+      "has_black_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-26 03:12:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-26 04:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-04-26 03:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-26 04:10:18 +0000"
     },
     "done": true
   },
@@ -7309,9 +7370,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_cherry_table": {
+    "criteria": {
+      "has_red_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-04-26 03:12:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_acacia_table": {
+    "criteria": {
+      "has_black_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_dark_oak_table": {
+    "criteria": {
+      "has_red_carpet": "2025-04-26 03:53:29 +0000"
     },
     "done": true
   },
@@ -7339,9 +7418,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_crimson_table": {
+    "criteria": {
+      "has_red_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_crimson_table": {
+    "criteria": {
+      "has_black_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_jungle_table": {
     "criteria": {
       "has_brown_carpet": "2025-04-26 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_birch_table": {
+    "criteria": {
+      "has_red_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_oak_table": {
+    "criteria": {
+      "has_black_carpet": "2025-04-26 03:53:29 +0000"
     },
     "done": true
   },
@@ -7351,9 +7454,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_table": {
+    "criteria": {
+      "has_red_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-04-26 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-04-26 03:41:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_jungle_table": {
+    "criteria": {
+      "has_red_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-26 04:10:18 +0000"
     },
     "done": true
   },
@@ -7363,15 +7490,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_dark_oak_table": {
+    "criteria": {
+      "has_black_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-04-26 03:12:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-04-26 03:41:07 +0000"
+    },
+    "done": true
+  },
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2025-04-26 03:01:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_jungle_table": {
+    "criteria": {
+      "has_black_carpet": "2025-04-26 03:53:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_oak_table": {
+    "criteria": {
+      "has_red_carpet": "2025-04-26 03:53:29 +0000"
     },
     "done": true
   },
@@ -7393,9 +7544,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-26 04:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-04-26 03:12:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_birch_table": {
+    "criteria": {
+      "has_black_carpet": "2025-04-26 03:53:29 +0000"
     },
     "done": true
   },
@@ -7408,6 +7571,12 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-04-26 03:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-04-26 03:41:07 +0000"
     },
     "done": true
   },

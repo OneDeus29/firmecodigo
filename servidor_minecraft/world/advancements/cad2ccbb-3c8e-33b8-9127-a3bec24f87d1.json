@@ -2252,6 +2252,7 @@
       "minecraft:vindicator": "2025-04-23 03:36:08 +0000",
       "minecraft:spider": "2025-04-23 20:46:37 +0000",
       "minecraft:creeper": "2025-04-25 04:07:33 +0000",
+      "minecraft:slime": "2025-04-26 04:07:36 +0000",
       "minecraft:phantom": "2025-04-25 04:08:30 +0000",
       "minecraft:wither_skeleton": "2025-04-25 04:08:40 +0000",
       "minecraft:husk": "2025-04-23 04:46:17 +0000",
@@ -6268,9 +6269,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/big_gray_glazed_jar": {
+    "criteria": {
+      "has_gray_terracotta": "2025-04-26 03:36:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-26 03:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-04-26 03:36:37 +0000"
     },
     "done": true
   },
@@ -6286,6 +6299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-26 03:56:06 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-04-26 03:17:17 +0000"
@@ -6298,9 +6317,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 03:54:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-04-26 03:13:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/gray_glazed_jar": {
+    "criteria": {
+      "has_gray_terracotta": "2025-04-26 03:36:37 +0000"
     },
     "done": true
   },
@@ -6310,15 +6341,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-26 03:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 03:54:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-26 03:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 03:54:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-04-26 03:13:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-26 03:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-04-26 03:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-26 03:56:06 +0000"
     },
     "done": true
   },
@@ -6331,6 +6398,12 @@
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-04-26 03:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-26 03:56:06 +0000"
     },
     "done": true
   },
