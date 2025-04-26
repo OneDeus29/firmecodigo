@@ -345,3 +345,24 @@
 [26Apr2025 19:38:59.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> perame 5 mn
 [26Apr2025 19:50:10.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=675, y=61, z=-5041} BlockPos{x=675, y=62, z=-5041}
 [26Apr2025 19:58:25.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has reached the goal [Flowers of the Savanna]
+[26Apr2025 20:04:03.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z7zz
+[26Apr2025 20:04:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[26Apr2025 20:04:04.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[26Apr2025 20:04:04.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[26Apr2025 20:04:04.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[26Apr2025 20:04:04.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzzzzzzzzzzzzzzz
+[26Apr2025 20:04:05.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[26Apr2025 20:04:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[26Apr2025 20:04:05.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[26Apr2025 20:04:05.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[26Apr2025 20:04:05.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[26Apr2025 20:04:29.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
+[26Apr2025 20:04:29.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[26Apr2025 20:04:40.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:50931] logged in with entity id 25999 at (-188.5, 63.05000001192093, -78.5)
+[26Apr2025 20:04:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[26Apr2025 20:09:28.736] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[26Apr2025 20:09:30.779] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[26Apr2025 20:09:40.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Itz_Jusebg_FpF) moved wrongly! 0.2755373315012548
+[26Apr2025 20:09:41.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Itz_Jusebg_FpF) moved wrongly! 0.2835452933770739
+[26Apr2025 20:10:13.181] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[26Apr2025 20:10:15.126] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
