@@ -6569,6 +6569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
     "criteria": {
       "has_acacia_slab": "2025-04-26 20:44:40 +0000"
@@ -6590,6 +6596,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-04-26 20:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
     },
     "done": true
   },
@@ -6695,6 +6707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-26 20:26:26 +0000"
@@ -6737,9 +6755,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_stool": {
     "criteria": {
       "has_acacia_slab": "2025-04-26 20:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
     },
     "done": true
   },
@@ -6752,6 +6782,18 @@
   "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
     },
     "done": true
   },
@@ -6833,6 +6875,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-04-26 21:23:27 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
@@ -6869,6 +6917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
@@ -6896,6 +6950,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
     },
     "done": true
   },
@@ -6956,6 +7016,12 @@
   "valhelsia_furniture:recipes/decorations/acacia_desk": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
     },
     "done": true
   },
@@ -7160,6 +7226,12 @@
   "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-26 20:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-26 21:25:09 +0000"
     },
     "done": true
   },

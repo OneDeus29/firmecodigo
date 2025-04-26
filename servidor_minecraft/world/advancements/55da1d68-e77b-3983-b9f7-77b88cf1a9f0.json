@@ -7767,6 +7767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-26 21:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-26 20:20:11 +0000"
@@ -7785,6 +7791,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-26 21:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-04-26 20:20:11 +0000"
@@ -7797,9 +7809,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-26 21:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_acacia_wood": {
     "criteria": {
       "has_log": "2025-04-26 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-26 21:27:40 +0000"
     },
     "done": true
   },
@@ -7808,6 +7832,12 @@
       "has_acacia_slab": "2025-04-26 20:42:27 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-04-26 21:27:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/red_rock_slab_from_red_rock_stonecutting": {
     "criteria": {
@@ -7899,6 +7929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-04-26 21:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-26 20:11:20 +0000"
@@ -7920,6 +7956,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-26 20:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-04-26 21:27:40 +0000"
     },
     "done": true
   },
@@ -7953,6 +7995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-26 21:27:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/red_rock_slab": {
     "criteria": {
       "has_red_rock": "2025-04-26 21:14:07 +0000"
@@ -7983,9 +8031,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-26 21:27:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/red_rock_wall": {
     "criteria": {
       "has_red_rock": "2025-04-26 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-26 21:27:40 +0000"
     },
     "done": true
   },
