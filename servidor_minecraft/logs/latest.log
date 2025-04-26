@@ -1,483 +1,332 @@
-[26Apr2025 02:42:43.278] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[26Apr2025 02:42:43.283] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[26Apr2025 02:42:44.611] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[26Apr2025 02:42:44.673] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/firmecodigo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[26Apr2025 02:42:44.978] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[26Apr2025 02:42:44.979] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Apr2025 02:42:44.980] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Apr2025 02:42:44.981] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Apr2025 02:42:45.156] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[26Apr2025 02:42:47.746] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[26Apr2025 02:42:47.860] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[26Apr2025 02:42:48.055] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[26Apr2025 02:42:48.064] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[26Apr2025 02:42:49.475] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[26Apr2025 02:42:54.234] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[26Apr2025 02:42:54.235] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[26Apr2025 02:42:55.680] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'area_names.json' generation requested by mod 'areas'.
-[26Apr2025 02:42:55.699] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[26Apr2025 02:42:55.733] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[26Apr2025 02:42:55.997] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[26Apr2025 02:42:56.001] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[26Apr2025 02:42:56.004] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[26Apr2025 02:42:56.005] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[26Apr2025 02:42:56.008] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[26Apr2025 02:42:56.009] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[26Apr2025 02:42:56.010] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[26Apr2025 02:42:56.012] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[26Apr2025 02:42:56.028] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[26Apr2025 02:42:56.499] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[26Apr2025 02:42:56.499] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[26Apr2025 02:42:56.839] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[26Apr2025 02:42:56.969] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[26Apr2025 02:42:57.065] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[26Apr2025 02:42:57.093] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[26Apr2025 02:42:57.094] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[26Apr2025 02:42:57.098] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[26Apr2025 02:42:57.103] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[26Apr2025 02:42:57.104] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[26Apr2025 02:42:57.106] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[26Apr2025 02:42:57.119] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[26Apr2025 02:42:57.130] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[26Apr2025 02:42:57.169] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[26Apr2025 02:42:57.177] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[26Apr2025 02:42:57.178] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[26Apr2025 02:42:57.183] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[26Apr2025 02:42:57.189] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[26Apr2025 02:42:57.218] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[26Apr2025 02:42:57.238] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[26Apr2025 02:42:57.238] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[26Apr2025 02:42:57.244] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[26Apr2025 02:42:57.338] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[26Apr2025 02:42:57.341] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[26Apr2025 02:42:57.355] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[26Apr2025 02:42:57.363] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[26Apr2025 02:42:57.383] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[26Apr2025 02:42:57.405] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[26Apr2025 02:42:57.407] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[26Apr2025 02:42:57.408] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[26Apr2025 02:42:57.427] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[26Apr2025 02:42:57.446] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[26Apr2025 02:42:57.447] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[26Apr2025 02:42:57.451] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[26Apr2025 02:42:57.453] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[26Apr2025 02:42:57.531] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[26Apr2025 02:42:57.869] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@20677bc2 has been registered twice for the same name treechop:chop_wood.
-[26Apr2025 02:43:01.148] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[26Apr2025 02:43:01.232] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[26Apr2025 02:43:01.352] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[26Apr2025 02:43:01.367] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[26Apr2025 02:43:01.423] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[26Apr2025 02:43:01.442] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[26Apr2025 02:43:01.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[26Apr2025 02:43:01.876] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[26Apr2025 02:43:01.877] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[26Apr2025 02:43:01.877] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[26Apr2025 02:43:01.877] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[26Apr2025 02:43:01.877] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[26Apr2025 02:43:01.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: BETA_OUTDATED Current: 2.0d Target: 2.0e
-[26Apr2025 02:43:01.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[26Apr2025 02:43:02.090] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.090] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.091] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.091] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.091] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.091] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.091] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.091] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.092] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.092] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.092] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.092] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.092] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.093] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.093] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.093] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.093] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.093] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.093] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.094] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.094] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.094] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.094] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.094] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.095] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.095] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.095] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.095] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.095] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.095] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.096] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.096] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.096] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.096] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.096] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.097] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.097] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:02.097] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:02.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[26Apr2025 02:43:02.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[26Apr2025 02:43:02.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[26Apr2025 02:43:02.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[26Apr2025 02:43:02.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[26Apr2025 02:43:02.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[26Apr2025 02:43:03.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[26Apr2025 02:43:03.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[26Apr2025 02:43:03.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[26Apr2025 02:43:06.239] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[26Apr2025 02:43:06.398] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.398] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.398] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.398] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.398] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.399] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.399] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.399] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.399] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.399] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.399] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.400] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.400] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.400] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.400] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.400] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.400] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.401] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.401] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.401] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.401] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.401] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.401] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.401] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.402] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.402] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.402] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.402] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.402] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.403] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.403] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.403] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.403] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.403] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.404] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.404] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.404] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.404] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.529] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.529] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.529] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.530] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.530] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.530] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.530] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.530] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.530] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.531] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.531] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.531] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.531] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.531] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.531] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.531] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.532] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.532] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.532] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.532] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.532] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.532] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.533] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.533] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.533] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.533] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.533] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.533] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.533] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.534] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.534] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.534] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.534] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.534] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.534] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.534] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:06.535] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[26Apr2025 02:43:06.535] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[26Apr2025 02:43:09.392] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
-[26Apr2025 02:43:09.392] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
-[26Apr2025 02:43:09.546] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
-[26Apr2025 02:43:10.434] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[26Apr2025 02:43:11.531] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[26Apr2025 02:43:11.550] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[26Apr2025 02:43:12.664] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[26Apr2025 02:43:12.797] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[26Apr2025 02:43:13.176] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[26Apr2025 02:43:13.372] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[26Apr2025 02:43:13.372] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[26Apr2025 02:43:13.380] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[26Apr2025 02:43:13.380] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[26Apr2025 02:43:13.393] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[26Apr2025 02:43:13.399] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[26Apr2025 02:43:13.399] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[26Apr2025 02:43:13.414] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[26Apr2025 02:43:13.414] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[26Apr2025 02:43:13.419] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[26Apr2025 02:43:13.419] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[26Apr2025 02:43:13.422] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[26Apr2025 02:43:13.422] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[26Apr2025 02:43:13.423] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[26Apr2025 02:43:13.423] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[26Apr2025 02:43:13.439] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[26Apr2025 02:43:13.439] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[26Apr2025 02:43:13.439] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[26Apr2025 02:43:13.439] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[26Apr2025 02:43:13.443] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[26Apr2025 02:43:13.443] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[26Apr2025 02:43:13.444] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[26Apr2025 02:43:13.450] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[26Apr2025 02:43:13.450] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[26Apr2025 02:43:13.451] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[26Apr2025 02:43:13.459] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[26Apr2025 02:43:13.459] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[26Apr2025 02:43:13.459] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[26Apr2025 02:43:13.460] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[26Apr2025 02:43:13.463] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[26Apr2025 02:43:13.468] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[26Apr2025 02:43:13.469] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[26Apr2025 02:43:13.475] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[26Apr2025 02:43:13.475] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[26Apr2025 02:43:13.478] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[26Apr2025 02:43:13.478] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[26Apr2025 02:43:13.502] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[26Apr2025 02:43:13.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[26Apr2025 02:43:13.506] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[26Apr2025 02:43:13.506] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[26Apr2025 02:43:13.512] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[26Apr2025 02:43:13.515] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[26Apr2025 02:43:13.515] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[26Apr2025 02:43:13.516] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[26Apr2025 02:43:13.517] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[26Apr2025 02:43:13.520] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[26Apr2025 02:43:13.520] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[26Apr2025 02:43:13.524] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[26Apr2025 02:43:13.528] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
-[26Apr2025 02:43:13.573] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[26Apr2025 02:43:13.662] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[26Apr2025 02:43:13.713] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[26Apr2025 02:43:13.719] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[26Apr2025 02:43:13.768] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4690 advancements
-[26Apr2025 02:43:13.773] [main/INFO] [Dungeon Crawl/]: Loading data...
-[26Apr2025 02:43:14.071] [main/INFO] [Dungeon Crawl/]: Done.
-[26Apr2025 02:43:14.079] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[26Apr2025 02:43:14.092] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[26Apr2025 02:43:14.098] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[26Apr2025 02:43:14.100] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[26Apr2025 18:40:12.339] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[26Apr2025 18:40:12.343] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[26Apr2025 18:40:19.082] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26Apr2025 18:40:19.238] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/firmecodigo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[26Apr2025 18:40:19.715] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[26Apr2025 18:40:19.717] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Apr2025 18:40:19.718] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Apr2025 18:40:19.719] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Apr2025 18:40:20.108] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[26Apr2025 18:40:23.191] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Apr2025 18:40:23.333] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[26Apr2025 18:40:23.694] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Apr2025 18:40:23.703] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Apr2025 18:40:25.863] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[26Apr2025 18:40:33.166] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[26Apr2025 18:40:33.166] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[26Apr2025 18:40:35.393] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[26Apr2025 18:40:35.398] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'area_names.json' generation requested by mod 'areas'.
+[26Apr2025 18:40:35.407] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[26Apr2025 18:40:35.821] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[26Apr2025 18:40:35.823] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[26Apr2025 18:40:35.829] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[26Apr2025 18:40:35.831] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[26Apr2025 18:40:35.835] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[26Apr2025 18:40:35.839] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[26Apr2025 18:40:35.840] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[26Apr2025 18:40:35.849] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[26Apr2025 18:40:35.853] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[26Apr2025 18:40:36.641] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[26Apr2025 18:40:36.641] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[26Apr2025 18:40:37.083] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[26Apr2025 18:40:37.227] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[26Apr2025 18:40:37.350] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[26Apr2025 18:40:37.352] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[26Apr2025 18:40:37.352] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[26Apr2025 18:40:37.373] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[26Apr2025 18:40:37.373] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[26Apr2025 18:40:37.377] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[26Apr2025 18:40:37.390] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[26Apr2025 18:40:37.393] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[26Apr2025 18:40:37.412] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[26Apr2025 18:40:37.426] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[26Apr2025 18:40:37.428] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[26Apr2025 18:40:37.429] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[26Apr2025 18:40:37.433] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[26Apr2025 18:40:37.459] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[26Apr2025 18:40:37.493] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[26Apr2025 18:40:37.560] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[26Apr2025 18:40:37.562] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[26Apr2025 18:40:37.565] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[26Apr2025 18:40:37.567] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[26Apr2025 18:40:37.567] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[26Apr2025 18:40:37.578] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[26Apr2025 18:40:37.584] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[26Apr2025 18:40:37.597] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[26Apr2025 18:40:37.612] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[26Apr2025 18:40:37.613] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[26Apr2025 18:40:37.615] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[26Apr2025 18:40:37.626] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[26Apr2025 18:40:37.642] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[26Apr2025 18:40:37.652] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[26Apr2025 18:40:37.654] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[26Apr2025 18:40:37.656] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[26Apr2025 18:40:37.827] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[26Apr2025 18:40:38.278] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@4c882ccf has been registered twice for the same name treechop:chop_wood.
+[26Apr2025 18:40:42.475] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[26Apr2025 18:40:42.477] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[26Apr2025 18:40:42.479] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[26Apr2025 18:40:42.555] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[26Apr2025 18:40:42.673] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[26Apr2025 18:40:42.680] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[26Apr2025 18:40:42.683] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[26Apr2025 18:40:42.706] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[26Apr2025 18:40:43.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[26Apr2025 18:40:43.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: BETA_OUTDATED Current: 2.0d Target: 2.0e
+[26Apr2025 18:40:43.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[26Apr2025 18:40:43.486] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[26Apr2025 18:40:43.486] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[26Apr2025 18:40:43.486] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[26Apr2025 18:40:43.486] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[26Apr2025 18:40:43.486] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[26Apr2025 18:40:43.705] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.706] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.706] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.706] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.707] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.707] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.707] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.707] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.709] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.709] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.709] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.709] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.710] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.710] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.710] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.710] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.711] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.711] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.711] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.711] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.712] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.712] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.712] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.712] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.712] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.713] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.713] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.713] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.713] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.714] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.714] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:43.714] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:43.714] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:44.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[26Apr2025 18:40:44.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Apr2025 18:40:44.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[26Apr2025 18:40:44.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[26Apr2025 18:40:44.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[26Apr2025 18:40:44.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[26Apr2025 18:40:45.137] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[26Apr2025 18:40:45.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[26Apr2025 18:40:45.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[26Apr2025 18:40:49.319] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Apr2025 18:40:49.517] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.517] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.519] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.519] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.519] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.519] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.519] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.520] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.520] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.520] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.520] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.520] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.524] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.524] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.668] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.668] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.668] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.668] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.669] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.669] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.669] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.669] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.669] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.669] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.670] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.670] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.670] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.670] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.670] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.670] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.670] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.671] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.671] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.671] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.671] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.672] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.672] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.672] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.672] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.673] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.674] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.674] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.674] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.674] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.675] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.675] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.675] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.675] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.675] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.676] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:49.676] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[26Apr2025 18:40:49.676] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[26Apr2025 18:40:53.142] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
+[26Apr2025 18:40:53.142] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/firmecodigo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
+[26Apr2025 18:40:53.372] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
+[26Apr2025 18:40:54.486] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[26Apr2025 18:40:55.763] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[26Apr2025 18:40:55.782] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[26Apr2025 18:40:57.228] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[26Apr2025 18:40:57.404] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[26Apr2025 18:40:57.781] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[26Apr2025 18:40:58.079] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[26Apr2025 18:40:58.080] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[26Apr2025 18:40:58.088] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[26Apr2025 18:40:58.089] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[26Apr2025 18:40:58.106] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[26Apr2025 18:40:58.112] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[26Apr2025 18:40:58.112] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[26Apr2025 18:40:58.137] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[26Apr2025 18:40:58.137] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[26Apr2025 18:40:58.141] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[26Apr2025 18:40:58.142] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[26Apr2025 18:40:58.144] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[26Apr2025 18:40:58.144] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[26Apr2025 18:40:58.145] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[26Apr2025 18:40:58.146] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[26Apr2025 18:40:58.159] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[26Apr2025 18:40:58.159] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[26Apr2025 18:40:58.159] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[26Apr2025 18:40:58.159] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[26Apr2025 18:40:58.164] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[26Apr2025 18:40:58.164] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[26Apr2025 18:40:58.169] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[26Apr2025 18:40:58.180] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[26Apr2025 18:40:58.183] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[26Apr2025 18:40:58.184] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[26Apr2025 18:40:58.199] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[26Apr2025 18:40:58.200] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[26Apr2025 18:40:58.201] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[26Apr2025 18:40:58.202] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[26Apr2025 18:40:58.209] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[26Apr2025 18:40:58.217] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[26Apr2025 18:40:58.224] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[26Apr2025 18:40:58.230] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[26Apr2025 18:40:58.231] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[26Apr2025 18:40:58.232] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[26Apr2025 18:40:58.232] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[26Apr2025 18:40:58.259] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[26Apr2025 18:40:58.259] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[26Apr2025 18:40:58.262] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[26Apr2025 18:40:58.263] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[26Apr2025 18:40:58.268] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[26Apr2025 18:40:58.271] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[26Apr2025 18:40:58.271] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[26Apr2025 18:40:58.272] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[26Apr2025 18:40:58.274] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[26Apr2025 18:40:58.277] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[26Apr2025 18:40:58.277] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[26Apr2025 18:40:58.281] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[26Apr2025 18:40:58.287] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[26Apr2025 18:40:58.347] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[26Apr2025 18:40:58.451] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[26Apr2025 18:40:58.494] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[26Apr2025 18:40:58.507] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[26Apr2025 18:40:58.563] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4690 advancements
+[26Apr2025 18:40:58.568] [main/INFO] [Dungeon Crawl/]: Loading data...
+[26Apr2025 18:40:59.066] [main/INFO] [Dungeon Crawl/]: Done.
+[26Apr2025 18:40:59.074] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[26Apr2025 18:40:59.091] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[26Apr2025 18:40:59.102] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[26Apr2025 18:40:59.105] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[26Apr2025 02:43:17.377] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 6.58526ms
-[26Apr2025 02:43:17.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[26Apr2025 02:43:17.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[26Apr2025 02:43:17.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[26Apr2025 02:43:17.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[26Apr2025 02:43:17.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[26Apr2025 02:43:17.806] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[26Apr2025 02:43:17.903] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[26Apr2025 02:43:17.904] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[26Apr2025 02:43:17.904] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[26Apr2025 02:43:17.904] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[26Apr2025 02:43:18.233] [Server thread/INFO] [Framework/]: Loading server configs...
-[26Apr2025 02:43:18.251] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[26Apr2025 02:43:18.683] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[26Apr2025 02:43:18.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[26Apr2025 02:43:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[26Apr2025 02:43:29.580] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:29.598] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.392] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[26Apr2025 02:43:30.898] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.902] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.903] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.904] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.905] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.906] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.907] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.907] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.908] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:30.908] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:31.141] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[26Apr2025 02:43:31.157] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Apr2025 02:43:31.659] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
-[26Apr2025 02:43:32.157] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[26Apr2025 02:43:32.239] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7583 ms
-[26Apr2025 02:43:32.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.322s)! For help, type "help"
-[26Apr2025 02:43:32.306] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[26Apr2025 02:43:32.307] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[26Apr2025 02:43:32.308] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[26Apr2025 02:43:48.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.24.29.162:36479] logged in with entity id 105 at (131.35539375528757, 64.0, 200.77682557913624)
-[26Apr2025 02:43:48.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
-[26Apr2025 02:43:49.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:32825] logged in with entity id 166 at (52.545972798532944, 63.0, -5661.415028509432)
-[26Apr2025 02:43:49.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
-[26Apr2025 02:43:51.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
-[26Apr2025 02:45:46.610] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:47:09.013] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:47:09.014] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:48:16.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
-[26Apr2025 02:48:16.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! 6.162571444717344,0.8322033533667508,7.9917464595419005
-[26Apr2025 02:49:37.360] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:49:50.206] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:50:41.103] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:52:49.556] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:52:56.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=64, z=-1652} BlockPos{x=50, y=61, z=-1652}
-[26Apr2025 02:53:18.808] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:54:26.951] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:55:25.564] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:55:59.159] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:57:45.650] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 02:58:35.157] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
-[26Apr2025 03:00:57.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
-[26Apr2025 03:01:38.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Blindfolded]
-[26Apr2025 03:17:14.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26430, l='ServerLevel[world]', x=846.30, y=66.00, z=-4925.79] died, message: 'Farmer was slain by Zombie'
-[26Apr2025 03:17:17.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Chompy]
-[26Apr2025 03:17:37.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/26445, l='ServerLevel[world]', x=842.50, y=72.00, z=-4928.14] died, message: 'Librarian was slain by Zombie Villager'
-[26Apr2025 03:19:12.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzzzzzzzz
-[26Apr2025 03:19:12.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[26Apr2025 03:19:12.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[26Apr2025 03:19:13.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[26Apr2025 03:19:13.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
-[26Apr2025 03:19:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 03:19:16.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 03:19:16.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 03:19:16.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 03:19:16.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 03:19:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 03:19:41.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26404, l='ServerLevel[world]', x=787.63, y=82.00, z=-4941.63] died, message: 'Farmer burned to death'
-[26Apr2025 03:20:27.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Distant Dreamer]
-[26Apr2025 03:21:46.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:22:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Skeleton
-[26Apr2025 03:25:11.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Sneak 100]
-[26Apr2025 03:26:15.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:26:46.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:27:26.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:27:38.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:27:49.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:28:06.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:28:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:28:29.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:29:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:29:33.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:29:59.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Sneak 100]
-[26Apr2025 03:32:03.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:32:15.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:32:55.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved wrongly!
-[26Apr2025 03:32:58.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:33:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Skeleton
-[26Apr2025 03:33:34.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has fallen
-[26Apr2025 03:33:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has been revived
-[26Apr2025 03:35:32.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:35:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:38:40.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:38:44.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Skeleton
-[26Apr2025 03:39:43.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:40:06.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:40:11.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:40:16.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:40:22.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:40:29.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Skeleton
-[26Apr2025 03:41:24.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:41:34.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Skeleton
-[26Apr2025 03:42:38.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:42:41.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was shot by Stymphalian Bird
-[26Apr2025 03:45:14.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:45:21.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:45:38.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:45:59.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 03:48:32.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:48:43.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Skeleton
-[26Apr2025 03:50:47.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:51:11.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Skeleton
-[26Apr2025 03:56:26.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 03:56:56.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Zombie
-[26Apr2025 04:08:16.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/51019, l='ServerLevel[world]', x=853.87, y=64.00, z=-4921.33] died, message: 'Toolsmith was shot by Stymphalian Bird'
-[26Apr2025 04:09:07.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Herc was on a Roll!]
-[26Apr2025 04:09:35.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 04:09:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 was slain by Slime
-[26Apr2025 04:12:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 04:13:04.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 04:13:18.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 04:13:19.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 04:13:19.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 04:13:19.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 04:13:19.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 04:13:19.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
-[26Apr2025 04:14:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 04:14:36.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 04:14:52.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/51266, l='ServerLevel[world]', x=824.26, y=63.23, z=-4910.50] died, message: 'Farmer was shot by Stymphalian Bird'
-[26Apr2025 04:15:04.282] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/51285, l='ServerLevel[world]', x=820.09, y=64.00, z=-4913.02] died, message: 'Farmer was shot by Stymphalian Bird'
-[26Apr2025 04:15:31.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
-[26Apr2025 04:15:42.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
-[26Apr2025 04:16:19.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has completed the challenge [Hero of Hyrule]
-[26Apr2025 04:23:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [The Parrots and the Bats]
-[26Apr2025 04:25:12.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[26Apr2025 04:25:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[26Apr2025 04:25:12.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Server closed
-[26Apr2025 04:25:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
-[26Apr2025 04:25:12.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[26Apr2025 04:25:13.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[26Apr2025 04:25:15.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[26Apr2025 04:25:15.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[26Apr2025 04:25:15.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[26Apr2025 04:25:15.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[26Apr2025 04:25:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[26Apr2025 04:25:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[26Apr2025 04:25:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[26Apr2025 04:25:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[26Apr2025 04:25:15.855] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.855] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.855] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.855] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.860] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.860] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.860] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.860] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.860] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.860] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.860] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:15.861] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.522] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.523] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.523] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.524] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.524] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.524] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.524] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.525] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.525] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.525] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.525] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.525] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.527] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.528] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.528] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.528] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.528] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.528] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.528] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.529] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.529] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.529] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.529] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.530] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.530] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.530] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.531] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[26Apr2025 04:25:16.535] [Server thread/INFO] [Framework/]: Unloading server configs...
-[26Apr2025 04:25:16.539] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[26Apr2025 04:25:16.547] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[26Apr2025 18:41:02.674] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.548162ms
+[26Apr2025 18:41:02.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[26Apr2025 18:41:02.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Apr2025 18:41:02.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Apr2025 18:41:02.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Apr2025 18:41:03.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Apr2025 18:41:03.647] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Apr2025 18:41:03.757] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Apr2025 18:41:03.758] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Apr2025 18:41:03.758] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Apr2025 18:41:03.758] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Apr2025 18:41:04.116] [Server thread/INFO] [Framework/]: Loading server configs...
+[26Apr2025 18:41:04.965] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[26Apr2025 18:41:04.966] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[26Apr2025 18:41:04.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Apr2025 18:41:12.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Apr2025 18:41:17.231] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[26Apr2025 18:41:17.731] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.762] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.772] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.788] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.796] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.814] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.818] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.901] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.911] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.926] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:17.951] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:18.061] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[26Apr2025 18:41:20.880] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:20.882] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:21.140] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:21.142] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:21.146] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:21.147] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:22.049] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:22.051] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Apr2025 18:41:22.448] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[26Apr2025 18:41:22.948] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[26Apr2025 18:41:23.450] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[26Apr2025 18:41:23.614] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10667 ms
+[26Apr2025 18:41:23.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.836s)! For help, type "help"
+[26Apr2025 18:41:23.730] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Apr2025 18:41:23.732] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[26Apr2025 18:41:23.732] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[26Apr2025 18:42:18.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:52983] logged in with entity id 85 at (806.3572963543005, 65.9375, -4821.4268621730635)
+[26Apr2025 18:42:18.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[26Apr2025 18:42:21.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3330ms or 66 ticks behind
+[26Apr2025 18:42:45.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
+[26Apr2025 18:42:45.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! 6.257133693717947,1.0625,8.036532101164994
+[26Apr2025 18:57:26.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
+[26Apr2025 18:57:26.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[26Apr2025 18:58:37.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:56851] logged in with entity id 4639 at (1086.7428261274838, 162.0625, -4766.618946425663)
+[26Apr2025 18:58:37.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[26Apr2025 19:12:05.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Itz_Jusebg_FpF a server operator
