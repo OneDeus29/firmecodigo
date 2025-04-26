@@ -409,3 +409,10 @@
 [26Apr2025 04:13:19.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
 [26Apr2025 04:13:19.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
 [26Apr2025 04:14:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
+[26Apr2025 04:14:36.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
+[26Apr2025 04:14:52.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/51266, l='ServerLevel[world]', x=824.26, y=63.23, z=-4910.50] died, message: 'Farmer was shot by Stymphalian Bird'
+[26Apr2025 04:15:04.282] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/51285, l='ServerLevel[world]', x=820.09, y=64.00, z=-4913.02] died, message: 'Farmer was shot by Stymphalian Bird'
+[26Apr2025 04:15:31.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has fallen
+[26Apr2025 04:15:42.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
+[26Apr2025 04:16:19.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has completed the challenge [Hero of Hyrule]
+[26Apr2025 04:23:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [The Parrots and the Bats]
