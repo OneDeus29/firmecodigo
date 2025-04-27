@@ -336,3 +336,15 @@
 [27Apr2025 04:35:10.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10340, l='ServerLevel[world]', x=33.79, y=-20.00, z=-592.25] died: Toxic Slime was killed
 [27Apr2025 04:35:30.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
 [27Apr2025 04:36:41.547] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/11061, l='ServerLevel[world]', x=19.21, y=-20.00, z=-574.02] died: Toxic Slime was killed
+[27Apr2025 04:44:43.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[27Apr2025 04:44:43.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[27Apr2025 04:44:43.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[27Apr2025 04:44:43.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[27Apr2025 04:44:43.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[27Apr2025 04:44:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[27Apr2025 04:44:44.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> zz
+[27Apr2025 04:44:44.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[27Apr2025 04:47:55.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
+[27Apr2025 04:47:55.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[27Apr2025 04:48:45.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:51607] logged in with entity id 19831 at (815.7714705967156, 67.0, -4823.109098565418)
+[27Apr2025 04:48:45.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
