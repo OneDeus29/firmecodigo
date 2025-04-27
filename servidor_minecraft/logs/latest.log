@@ -318,3 +318,21 @@
 [27Apr2025 03:50:15.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.24.29.162:59333] logged in with entity id 88 at (-186.45484166856983, 63.0, -75.59472960453088)
 [27Apr2025 03:50:15.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
 [27Apr2025 03:58:59.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Will it Come Back?]
+[27Apr2025 04:31:48.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:43385] logged in with entity id 9703 at (36.40548550126502, 34.0, -588.6999999880791)
+[27Apr2025 04:31:48.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[27Apr2025 04:31:58.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9709, l='ServerLevel[world]', x=12.93, y=-20.00, z=-592.67] died: Toxic Slime was killed
+[27Apr2025 04:31:59.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9807, l='ServerLevel[world]', x=122.92, y=-20.00, z=-556.54] died: Toxic Slime was killed
+[27Apr2025 04:32:01.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9713, l='ServerLevel[world]', x=20.85, y=-20.00, z=-563.26] died: Toxic Slime was killed
+[27Apr2025 04:32:38.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9706, l='ServerLevel[world]', x=64.34, y=-20.00, z=-568.83] died: Toxic Slime was killed
+[27Apr2025 04:32:46.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9715, l='ServerLevel[world]', x=46.74, y=-20.00, z=-571.74] died: Toxic Slime was killed
+[27Apr2025 04:32:46.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9782, l='ServerLevel[world]', x=106.34, y=-20.00, z=-587.37] died: Toxic Slime was killed
+[27Apr2025 04:32:56.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9769, l='ServerLevel[world]', x=77.57, y=-20.00, z=-619.94] died: Toxic Slime was killed
+[27Apr2025 04:33:50.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9803, l='ServerLevel[world]', x=103.41, y=-20.00, z=-516.33] died: Toxic Slime was killed
+[27Apr2025 04:33:55.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9763, l='ServerLevel[world]', x=48.40, y=-20.00, z=-563.74] died: Toxic Slime was killed
+[27Apr2025 04:34:02.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9745, l='ServerLevel[world]', x=90.28, y=-20.00, z=-640.25] died: Toxic Slime was killed
+[27Apr2025 04:34:53.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10160, l='ServerLevel[world]', x=-22.51, y=-20.00, z=-564.89] died: Toxic Slime was killed
+[27Apr2025 04:34:57.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10183, l='ServerLevel[world]', x=-6.23, y=-20.00, z=-588.46] died: Toxic Slime was killed
+[27Apr2025 04:35:08.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10317, l='ServerLevel[world]', x=94.00, y=-20.00, z=-632.69] died: Toxic Slime was killed
+[27Apr2025 04:35:10.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10340, l='ServerLevel[world]', x=33.79, y=-20.00, z=-592.25] died: Toxic Slime was killed
+[27Apr2025 04:35:30.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[27Apr2025 04:36:41.547] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/11061, l='ServerLevel[world]', x=19.21, y=-20.00, z=-574.02] died: Toxic Slime was killed
